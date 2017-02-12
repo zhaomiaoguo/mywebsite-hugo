@@ -5,18 +5,17 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Recent Posts"
+title = "Recent News"
 subtitle = ""
 widget = "posts"
 
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
-# Show posts that contain the following tags. Default to any tags.
-tags = []
+# Show posts that contain the following tags. Default to any tags （e.g., 'news'）. labels as tags = []
+tags = ['news']
 
 # Number of posts to list.
-count = 5
+count = 2
 
 +++
-

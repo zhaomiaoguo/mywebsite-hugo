@@ -1,12 +1,12 @@
-baseurl = "https://example.com"
+baseurl = "https://chengjun.github.io"
 title = "Academic"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2016 Cheng-Jun Wang"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "ChengjunWang"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -19,17 +19,17 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
-  organization_url = ""
-  avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  name = "Cheng-Jun Wang"
+  role = "Assistant Research Fellow"
+  organization = "Nanjing University"
+  organization_url = "http://nju.edu.cn"
+  avatar = "chengjun.jpg"
+  email = "wangchengjun@nju.edu.cn"
+  address = "Room A307, Feiyimin Building, Gulou District, Nanjing University, Jiangsu, 210093, China"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  phone = "+86 025-83686110"
+  # skype = "echo123"
+  # telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -125,22 +125,34 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:wangchengjun@nju.edu.cn"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/ChengJunWang"
+
+  [[params.social]]
+    icon = "weibo"
+    icon_pack = "fa"
+    link = "//weibo.com/frankwang"
+
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk/citations?user=nNdt_G8AAAAJ"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Cheng_Jun_Wang"
+
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/chengjun"
 
 
 # Navigation Links
@@ -159,13 +171,13 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "News"
+  url = "#posts"
   weight = 4
 
 [[menu.main]]

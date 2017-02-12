@@ -14,14 +14,12 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
 
-I am a teaching instructor for the following courses at University X:
+I am teaching the following courses:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+-  FDU Graduate Course **Introduction to Computational Communication**
+{{% alert note %}}
+See this [GitHub repository](https://github.com/computational-class/cjc2016/) for materials of python programming, data collection, basic statistics and machine learning, basic text mining, recommendation system, and communication networks.
+{{% /alert %}}
+- NJU Undergraduate Course **Data Journalism**
+- NJU Undergraduate Course **Computational Communication**

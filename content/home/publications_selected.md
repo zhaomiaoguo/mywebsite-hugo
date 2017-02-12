@@ -17,4 +17,3 @@ weight = 10
 detailed_list = true
 
 +++
-
