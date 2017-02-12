@@ -1,4 +1,4 @@
-baseurl = "https://chengjun.github.io"
+baseurl = "https://chengjun.github.io/"
 title = "Academic"
 copyright = "&copy; 2016 Cheng-Jun Wang"
 theme = "academic"
