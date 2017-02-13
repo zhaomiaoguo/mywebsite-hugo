@@ -6,7 +6,12 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
-cd public
+cd ..
+
+cd chengjun.github.io
+
+cp -av /Users/chengjun/github/mywebsite-hugo/public/* .
+
 # Add changes to git.
 git add -A
 
@@ -22,3 +27,5 @@ git push origin master
 
 # Come Back
 cd ..
+
+cd mywebsite-hugo
