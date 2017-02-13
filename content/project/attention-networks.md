@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Attention Networks"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "This project aims to study the attention dynamics using flow network analysis."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
