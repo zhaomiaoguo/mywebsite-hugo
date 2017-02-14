@@ -30,8 +30,8 @@ view = 1
   tag = ".attention-networks"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Computational Communication"
+  tag = ".computational-communication"
 
 +++
 

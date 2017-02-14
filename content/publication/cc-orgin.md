@@ -1,5 +1,5 @@
 +++
-url_project = ""
+url_project = "project/computational-communication"
 url_video = ""
 selected = false
 publication_short = ""
