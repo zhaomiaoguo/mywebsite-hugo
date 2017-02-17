@@ -22,4 +22,7 @@ I am teaching the following courses:
 See this [GitHub repository](https://github.com/computational-class/cjc2016/) for materials of python programming, data collection, basic statistics and machine learning, basic text mining, recommendation system, and communication networks.
 {{% /alert %}}
 - NJU Undergraduate Course **Data Journalism**
+  - [2015 Autumn](https://github.com/data-journalism/djclass2015/)
+  - [2016 Autumn](https://github.com/data-journalism/dj2016)
 - NJU Undergraduate Course **Computational Communication**
+  - [2017 Spring](https://github.com/computational-class/cc2017/)
