@@ -4,8 +4,8 @@ draft = false
 title = "Curriculum Vitae"
 subtitle = "CV"
 widget = "single"
-slug= "en/cv"
-disable_comments = true
+slug= "info/cv"
+disable_comments = false
 +++
 
 
@@ -124,3 +124,5 @@ I served as a reviewer for International Journal of Public Opinion Research (IJP
 # Visualization
 1. News Map of China using D3.js.
 1. Global Terrorism using googleVis.
+
+-----------
