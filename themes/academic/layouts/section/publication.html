@@ -1,12 +1,14 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
+
 {{ if .Params.header.image }}
 <div class="article-header">
   <img src="{{ "/img/" | relURL }}/{{ .Params.header.image }}" class="article-banner" itemprop="image">
   {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
 </div>
 {{end}}
+
 
 <div class="container">
   <div class="row">
@@ -21,7 +23,7 @@
         {{ i18n "filter_by_type" }}:
         <select class="pub-filters-select">
           <option value="*">{{ i18n "filter_all" }}</option>
-          {{ range $index, $taxonomy := .Site.Taxonomies.publication_types }}
+            {{ range $index, $taxonomy := .Site.Taxonomies.publication_types }}
           <option value=".pubtype-{{ (int $index) }}">
             {{ index $.Site.Params.publication_types (int $index) }}
           </option>

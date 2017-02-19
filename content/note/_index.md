@@ -1,5 +1,4 @@
 +++
-title = "Note"
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
@@ -12,11 +11,5 @@ caption = ""
 +++
 
 {{% alert note %}}
-Todo List
+Live in the hard way.
 {{% /alert %}}
-
-- [x] <del>卧室木地板</del>
-- [x] 厨房推拉门、洗手间推拉门
-- [ ] 鞋柜和衣柜门板
-- [ ] 纱窗
-- [ ] 窗帘

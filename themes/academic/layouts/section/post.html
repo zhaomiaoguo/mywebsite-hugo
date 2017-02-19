@@ -26,6 +26,7 @@
     {{end}}
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     {{ partial "article_metadata" (dict "content" . "is_list" 1) }}
+    <!--
     <div class="article-style"><p>
       {{ if .Params.summary }}
       {{ printf "%s" .Params.summary | markdownify }}
@@ -35,6 +36,7 @@
       {{ .Content }}
       {{ end }}
     </p></div>
+  -->
   </div>
   {{ end }}
 

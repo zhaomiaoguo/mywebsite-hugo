@@ -83,6 +83,9 @@
 - id: filter_all
   translation: All
 
+- id: filter_journal
+  translation: Journal
+
 # Project details
 
 - id: open_project_site

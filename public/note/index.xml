@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Note on Academic</title>
+    <title>Academic</title>
     <link>https://chengjun.github.io/note/index.xml</link>
-    <description>Recent content in Note on Academic</description>
+    <description>Recent content on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Cheng-Jun Wang</copyright>
@@ -765,10 +765,10 @@ namespace WrappedString;
     
     <item>
       <title>关于房子</title>
-      <link>https://chengjun.github.io/note/2015-12-30-house/</link>
+      <link>https://chengjun.github.io/note/house/</link>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjun.github.io/note/2015-12-30-house/</guid>
+      <guid>https://chengjun.github.io/note/house/</guid>
       <description>
 
 &lt;h2 id=&#34;装修进度&#34;&gt;装修进度&lt;/h2&gt;
@@ -786,11 +786,12 @@ namespace WrappedString;
 &lt;ul class=&#34;task-list&#34;&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; &lt;del&gt;橱柜&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; &lt;del&gt;卧室木地板&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 厨房推拉门、洗手间推拉门&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 洗手间推拉门&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 坐便器&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 洗手台3个&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 木匠打厨房吊柜&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 鞋柜和衣柜门板&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 厨房推拉门&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 纱窗&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 窗帘&lt;/li&gt;
 &lt;/ul&gt;
@@ -800,12 +801,16 @@ namespace WrappedString;
 &lt;p&gt;芝华仕&lt;code&gt;高力国际家居港&lt;/code&gt;，房东是在迈皋桥那边买的家具，暮白在那里买的公司家具。地址见&lt;a href=&#34;http://j.map.baidu.com/SHg5j&#34; target=&#34;_blank&#34;&gt;百度地图&lt;/a&gt;。&lt;/p&gt;
 
 &lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 两个大床 1.8*2.0&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 沙发&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 电视桌&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 餐桌 1.4*0.8 + 4*椅子&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 沙发桌&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 两个大床 1.8*2.0&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 沙发&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 电视桌&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 餐桌 1.5 + 6*椅子&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 沙发桌&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/f73a04ecc4e903b6f69e6df86d674222.png&#34; alt=&#34;家具&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2017年2月19日在恒大旁边的家具城里的一家小店里预定了以上家具(总价13100元)。&lt;/p&gt;
 
 &lt;p&gt;看了房东家里的家具，还是挺不错的的，除了不喜欢她选的真皮沙发。上淘宝看了&lt;a href=&#34;https://yuanshimuyu.tmall.com/&#34; target=&#34;_blank&#34;&gt;源氏木语的家具&lt;/a&gt;比较简单。&lt;/p&gt;
 
@@ -819,6 +824,8 @@ namespace WrappedString;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 空调&lt;/li&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 冰箱&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;暮白主要考虑三级能耗的节能空调，格力品牌。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/133033dc64f37bbcd00c01f65722708b.png&#34; alt=&#34;yimen&#34; /&gt;&lt;/p&gt;
 
@@ -906,6 +913,8 @@ namespace WrappedString;
 
 &lt;h2 id=&#34;交通&#34;&gt;交通&lt;/h2&gt;
 
+&lt;p&gt;&lt;a href=&#34;http://j.map.baidu.com/O4IHj/&#34; target=&#34;_blank&#34;&gt;九曲花苑百度地图&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;玉兰路-仙林东路-仙林大道-经天路地铁站。s5地铁线会有一站经过宝华，但是距离仙林大道较远，需要经过宝华大道。预计2020年前完成。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://7lrzgn.com1.z0.glb.clouddn.com/%E5%9C%B0%E9%93%81.jpg&#34; alt=&#34;南京地铁规划线路&#34; /&gt;&lt;/p&gt;
@@ -918,23 +927,23 @@ namespace WrappedString;
 
 &lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/f4ee2a814c7f46fab123aa996ef915bd.png&#34; alt=&#34;njmetroplan&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;关于宝华镇&#34;&gt;关于宝华镇&lt;/h2&gt;
-
-&lt;p&gt;宝华镇位于镇江市西郊、句容市西北部，西距南京23公里，紧邻南京仙林大学城，东至镇江市区35公里。南至南京禄口机场30公里，北至长江龙潭港6公里，312国道、沪宁铁路穿境而过。宝华得名于境内佛教“律宗第一名山”宝华山，宝华山国家森林公园属国家AAAA级风景区，内有享誉东南亚佛教名寺——宝华山隆昌寺。交通便捷，区位优越，资源丰富。&lt;/p&gt;
-
-&lt;p&gt;百度百科 &lt;a href=&#34;http://baike.baidu.com/subview/939271/9832164.htm&#34; target=&#34;_blank&#34;&gt;http://baike.baidu.com/subview/939271/9832164.htm&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;宝华镇政府沿着玉兰路向北直走就是。&lt;/p&gt;
 
 &lt;h2 id=&#34;收房&#34;&gt;收房&lt;/h2&gt;
 
 &lt;p&gt;7月31日，拿到了房子的钥匙。装修还有漫漫长路。感觉非常的有压力。&lt;/p&gt;
 
-&lt;h2 id=&#34;仙林湖地铁站&#34;&gt;仙林湖地铁站&lt;/h2&gt;
+&lt;h3 id=&#34;仙林湖地铁站&#34;&gt;仙林湖地铁站&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/5000574f5b2e4f44b050943eacfd157e.png&#34; alt=&#34;仙林湖地铁站&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;四号线已经通车，但是仙林湖地铁站却比想象中要远。从仙林湖站到鼓楼需要&lt;code&gt;40分钟&lt;/code&gt;。&lt;/p&gt;
+
+&lt;h3 id=&#34;关于宝华镇&#34;&gt;关于宝华镇&lt;/h3&gt;
+
+&lt;p&gt;宝华镇位于镇江市西郊、句容市西北部，西距南京23公里，紧邻南京仙林大学城，东至镇江市区35公里。南至南京禄口机场30公里，北至长江龙潭港6公里，312国道、沪宁铁路穿境而过。宝华得名于境内佛教“律宗第一名山”宝华山，宝华山国家森林公园属国家AAAA级风景区，内有享誉东南亚佛教名寺——宝华山隆昌寺。交通便捷，区位优越，资源丰富。&lt;/p&gt;
+
+&lt;p&gt;百度百科 &lt;a href=&#34;http://baike.baidu.com/subview/939271/9832164.htm&#34; target=&#34;_blank&#34;&gt;http://baike.baidu.com/subview/939271/9832164.htm&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

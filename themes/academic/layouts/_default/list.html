@@ -20,6 +20,8 @@
   {{ range $paginator.Pages }}
   <div>
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ partial "article_metadata" (dict "content" . "is_list" 1) }}
+    <!--
     <div class="article-style">
       {{ if .Params.summary }}
       {{ printf "%s" .Params.summary | markdownify }}
@@ -27,6 +29,7 @@
       {{ printf "%s" .Summary | markdownify }}
       {{ end }}
     </div>
+  -->
   </div>
   {{ end }}
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "创业"
-date: 2010-03-30
-comments: true
+date: "2010-03-30"
 categories:
 - 工作
 tags:
