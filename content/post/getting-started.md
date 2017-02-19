@@ -4,6 +4,8 @@ draft = false
 tags = ["academic", "hugo", 'news']
 title = "Getting started with the Academic framework for Hugo"
 math = true
+notoc = false
+
 summary = """
 Create a beautifully simple personal or academic website in under 10 minutes.
 """

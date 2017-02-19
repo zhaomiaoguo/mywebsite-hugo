@@ -3,6 +3,8 @@
 
 <article class="article" itemscope itemtype="http://schema.org/Article">
 
+
+
   {{ if .Params.header.image }}
   <div class="article-header">
     <img src="{{ "/img/" | relURL }}/{{ .Params.header.image }}" class="article-banner" itemprop="image">
@@ -10,13 +12,26 @@
   </div>
   {{end}}
 
+
   <div class="article-container">
     <h1 itemprop="name">{{ .Title }}</h1>
     {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
+
+    {{ if not .Params.notoc }}
+      <div id="toc" class="well col-md-12">
+      <h2 itemprop="name">Table of Content</h2>
+      {{ .TableOfContents }}
+      </div>
+    {{ end }}
+    
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
+
+
+
   </div>
+
 
 </article>
 

@@ -133,7 +133,7 @@ summary = """
 
 ## 交通
 
-[九曲花苑百度地图](http://j.map.baidu.com/O4IHj/)
+[九曲花苑百度地图](http://map.baidu.com/?newmap=1&shareurl=1&l=19&tn=B_EARTH_MAP&hb=B_SATELLITE_STREET&c=13254186,3757548&mapShareId=be042ddc36beb45380288a47)
 
 玉兰路-仙林东路-仙林大道-经天路地铁站。s5地铁线会有一站经过宝华，但是距离仙林大道较远，需要经过宝华大道。预计2020年前完成。
 
