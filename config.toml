@@ -137,6 +137,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//weibo.com/frankwang"
 
+  [[params.social]]
+    icon = "child"
+    icon_pack = "fa"
+    link = "/note/"
+
 
   [[params.social]]
     icon = "google-scholar"

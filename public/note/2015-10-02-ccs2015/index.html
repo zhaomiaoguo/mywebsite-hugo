@@ -214,7 +214,8 @@
 
 
     
-      <div id="toc" class="well col-md-88">
+      <div id="toc" class="well col-md-12">
+      <h2 itemprop="name">Table of Content</h2>
       <nav id="TableOfContents">
 <ul>
 <li>
@@ -236,8 +237,7 @@
 </nav>
       </div>
     
-
-
+    
     <div class="article-style" itemprop="articleBody">
       
 
@@ -380,7 +380,11 @@ P(t+1) = kc(t)</p></li>
 Reconstructing a credit network</p>
 
     </div>
+
+
+
   </div>
+
 
 </article>
 
@@ -474,9 +478,17 @@ Reconstructing a credit network</p>
     
     
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] ,
+        processEscapes: true
+      },
+        TeX: {
+           equationNumbers: { autoNumber: "AMS" }
+        }
+       });
     </script>
-    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
     
 
   </body>

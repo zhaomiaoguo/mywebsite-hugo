@@ -203,6 +203,13 @@
         
         
         <li>
+          <a href="/note/" target="_blank">
+            <i class="fa fa-child big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
           <a href="https://scholar.google.co.uk/citations?user=nNdt_G8AAAAJ" target="_blank">
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
@@ -230,7 +237,7 @@
 
     
 
-<h1 id="about-me">About Me</h1>
+<h1 id="about">About</h1>
 
 <p>Cheng-Jun Wang is currently an assistant research fellow in the <a href="http://jc.nju.edu.cn" target="_blank">School of Journalism and Communication, Nanjing University</a>. He is the director of Ogilvy Data Science Lab, and also a research member of <a href="http://ccc.nju.edu.cn" target="_blank">Computational Communication Collaboratory</a> and <a href="http://weblab.com.cityu.edu.hk" target="_blank">Web Mining Lab</a>. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology. In 2014, He founded the <a href="http://computational-communication.com" target="_blank">website of computational communication</a>. You can find his <a href="cv/" target="_blank">CV</a> here.</p>
 
@@ -247,6 +254,8 @@
           <li>Computational Communication</li>
           
           <li>Public Discussion</li>
+          
+          <li>Team Science</li>
           
         </ul>
       </div>
@@ -944,9 +953,17 @@
     
     
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] ,
+        processEscapes: true
+      },
+        TeX: {
+           equationNumbers: { autoNumber: "AMS" }
+        }
+       });
     </script>
-    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
     
 
   </body>

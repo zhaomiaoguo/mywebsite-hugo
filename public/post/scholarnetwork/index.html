@@ -228,17 +228,21 @@
 
 
     
-      <div id="toc" class="well col-md-88">
+      <div id="toc" class="well col-md-12">
+      <h2 itemprop="name">Table of Content</h2>
       
       </div>
     
-
-
+    
     <div class="article-style" itemprop="articleBody">
       <p><a href="https://pypi.python.org/pypi/scholarNetwork/" target="_blank">scholarNetwork</a>, a Python package to crawl and visualize the coauthor network of Google Scholars.</p>
 
     </div>
+
+
+
   </div>
+
 
 </article>
 
@@ -332,9 +336,17 @@
     
     
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] ,
+        processEscapes: true
+      },
+        TeX: {
+           equationNumbers: { autoNumber: "AMS" }
+        }
+       });
     </script>
-    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
     
 
   </body>

@@ -225,7 +225,8 @@
 
 
     
-      <div id="toc" class="well col-md-88">
+      <div id="toc" class="well col-md-12">
+      <h2 itemprop="name">Table of Content</h2>
       <nav id="TableOfContents">
 <ul>
 <li>
@@ -262,8 +263,7 @@
 </nav>
       </div>
     
-
-
+    
     <div class="article-style" itemprop="articleBody">
       <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
 
@@ -610,7 +610,11 @@ Here's some important information...
 </ol>
 </div>
     </div>
+
+
+
   </div>
+
 
 </article>
 
@@ -704,9 +708,17 @@ Here's some important information...
     
     
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] ,
+        processEscapes: true
+      },
+        TeX: {
+           equationNumbers: { autoNumber: "AMS" }
+        }
+       });
     </script>
-    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
     
 
   </body>

@@ -236,7 +236,8 @@
 
 
     
-      <div id="toc" class="well col-md-88">
+      <div id="toc" class="well col-md-12">
+      <h2 itemprop="name">Table of Content</h2>
       <nav id="TableOfContents">
 <ul>
 <li>
@@ -269,8 +270,7 @@
 </nav>
       </div>
     
-
-
+    
     <div class="article-style" itemprop="articleBody">
       
 
@@ -455,7 +455,11 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
 <p>Released under the <a href="https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md" target="_blank">MIT</a> license.</p>
 
     </div>
+
+
+
   </div>
+
 
 </article>
 
@@ -549,9 +553,17 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] ,
+        processEscapes: true
+      },
+        TeX: {
+           equationNumbers: { autoNumber: "AMS" }
+        }
+       });
     </script>
-    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+
     
 
   </body>

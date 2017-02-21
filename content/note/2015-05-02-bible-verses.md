@@ -27,6 +27,16 @@ document.write("<iframe src=\"http://www.kingjamesonline.org/inspiring-images-wi
 document.write("<iframe src=\"http://www.kingjamesbibleonline.org/popular-bible-verses-widget.php\" style=\"width: 600px;height: 70px; border: 0px solid #ffffff;\"></iframe>");
 </script>
 
+![law](http://oaf2qt3yk.bkt.clouddn.com/440ad84671f91f2ac06cda82ce247561.png)
+
+
+> "But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter."
+---Romans 7:6 (KJV)
+
+但我们既然在捆我们的律法上死了,现今就脱离了律法,叫我们服侍主,要按着心灵的新样(“心灵”或作“圣灵”),不按着仪文的旧样。
+
+“但我们既然在捆我们的律法上死了，现今就脱离了律法”（罗7：6）。注意我们脱离了谁？脱离了“律法”，我们的丈夫。我们怎样脱离？不是丈夫（律法）死了，而是“我们”死了。我们的旧人与基督同钉死──“借着基督的身体死了”，就脱离了律法这丈夫而归于基督。
+
 
 # 圣经金句
 

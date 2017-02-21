@@ -14,7 +14,8 @@ weight = 1
   interests = [
     "Attention Networks",
     "Computational Communication",
-    "Public Discussion"
+    "Public Discussion",
+    "Team Science"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,6 +36,6 @@ weight = 1
 
 +++
 
-# About Me
+# About
 
 Cheng-Jun Wang is currently an assistant research fellow in the [School of Journalism and Communication, Nanjing University](http://jc.nju.edu.cn). He is the director of Ogilvy Data Science Lab, and also a research member of [Computational Communication Collaboratory](http://ccc.nju.edu.cn) and [Web Mining Lab](http://weblab.com.cityu.edu.hk). His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology. In 2014, He founded the [website of computational communication](http://computational-communication.com). You can find his [CV](cv/) here.
