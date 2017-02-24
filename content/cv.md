@@ -5,7 +5,7 @@ title = ""
 subtitle = "CV"
 widget = "single"
 slug= "cv"
-disable_comments = false
+disable_comments = true
 notoc = true
 +++
 

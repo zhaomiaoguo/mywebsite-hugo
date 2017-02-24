@@ -1,54 +1,12 @@
-+++
-title =  "我的女儿米粒"
-date = "2015-03-11"
-summary = """
-木落**知寒**近，山长见日迟。客行心绪乱，不及洛阳时。
-"""
-+++
+---
+title: "我的女儿米粒"
+date: "2015-03-11"
+---
+
 
 # 米粒出生多少天了？
 
-<html>
-<head>
-<meta charset="utf-8">
-
-</head>
-
-<body>
-
-<DIV id="CountMsg" class="HotDate">
-<span id="t_d">00天</span>
-<span id="t_h">00时</span>
-<span id="t_m">00分</span>
-<span id="t_s">00秒</span>
-</DIV>
-<script type="text/javascript">
-function getRTime(){
-var EndTime= new Date('2015/03/11 11:05:00'); //截止时间
-var NowTime = new Date();
-var t = NowTime.getTime()-EndTime.getTime();
-/*var d=Math.floor(t/1000/60/60/24);
-t-=d*(1000*60*60*24);
-var h=Math.floor(t/1000/60/60);
-t-=h*60*60*1000;
-var m=Math.floor(t/1000/60);
-t-=m*60*1000;
-var s=Math.floor(t/1000);*/
-
-var d=Math.floor(t/1000/60/60/24);
-var h=Math.floor(t/1000/60/60%24);
-var m=Math.floor(t/1000/60%60);
-var s=Math.floor(t/1000%60);
-
-document.getElementById("t_d").innerHTML = d + "天";
-document.getElementById("t_h").innerHTML = h + "时";
-document.getElementById("t_m").innerHTML = m + "分";
-document.getElementById("t_s").innerHTML = s + "秒";
-}
-setInterval(getRTime,1000);
-</script>
-</body>
-</html>
+<iframe src="http://chengjun.github.io/note/mili/" scrolling="no" width="200" height="60"></iframe>
 
 
 ![](https://gallery.mailchimp.com/c007b6835f6475cf470f6e0ef/images/a4918492-d8c8-4a18-9e1f-93716e8dc526.gif)

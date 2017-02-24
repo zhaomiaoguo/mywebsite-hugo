@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "世界之外的角落"
 date: 2014-07-01
 comments: true

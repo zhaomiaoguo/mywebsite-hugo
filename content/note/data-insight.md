@@ -37,7 +37,13 @@ junior和senior scholar合作效果不错。
 
 C(t)=A(1-exp(-t/tau))
 
+两边求导再离散化
+
+C(t+1)-C(t) = A/tau*exp(-t/tau)
+
 可以先把10个人的team的代码总量随（绝对）时间的变化看一下
+
+http://sciencepaths.kimalbrecht.com/
 
 C是t时刻的代码总量，A是无穷远时代码总量，tau大概就是半衰期。然后画一个所有大team的tau的分布，如果是双峰的分布，说明确实有两种team。20120311之后出现的team好像都有显示代码量。
 
