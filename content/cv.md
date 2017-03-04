@@ -1,9 +1,6 @@
 +++
 date = "2017-02-19T00:00:00"
-draft = false
 title = ""
-subtitle = "CV"
-widget = "single"
 slug= "cv"
 disable_comments = true
 notoc = true
@@ -11,9 +8,7 @@ notoc = true
 
 # Cheng-Jun Wang
 
-{{% alert note %}}
 Cheng-Jun Wang is currently an assistant research fellow in the School of Journalism and Communication, Nanjing University. He is also the director of Ogilvy Data Science Lab, Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology, and Journal of Social and Personal Relationships.
-{{% /alert %}}
 
 
 # Contact Information
@@ -45,10 +40,10 @@ Cheng-Jun Wang is currently an assistant research fellow in the School of Journa
 
 1. **Wang, C.J.**, Wu, L*, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. [doi:10.1038/srep34059](http://www.nature.com/articles/srep34059)
 2. Wu, L., **Wang, C.J.** * (2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. [doi: 10.1038/srep33103](http://www.nature.com/articles/srep33103)
-3. Chandra, Y.*, Jiang, C.L., **Wang, C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE, 11(3):e0151342, doi: 10.1371/journal.pone.0151342
-4. Jiang, C.L*, Yang, M, **Wang, C.J.** (2016) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. doi: 10.1177/0265407516640603
-5. **Wang, C.J.**, Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, doi: 10.1016/j.physa.2015.12.081
-6. **Wang, C.J.** *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. doi:10.1089/cyber.2012.0409. [SSCI, Ranking 4/72 in Communication by 5-year IF].
+3. Chandra, Y.*, Jiang, C.L., **Wang, C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE, 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
+4. Jiang, C.L*, Yang, M, **Wang, C.J.** (2016) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. doi: 10.1177 /0265407516640603
+5. **Wang, C.J.**, Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
+6. **Wang, C.J.** *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
 7. 王成军 (2016) 大数据计算与《纸牌屋》生成. 传媒评论. 5:63-66
 8. 王成军 (2016) 计算传播学的起源、概念与应用. 编辑学刊,3:59-64.
 9. 王成军（2015）计算传播学:作为计算社会科学的传播学.中国网络传播研究,8:193-208.
@@ -81,6 +76,7 @@ Cheng-Jun Wang is currently an assistant research fellow in the School of Journa
 1. Wang, C.J.(2012) Jumping over Network Threshold: News Diffusion on News Sharing Website. The seminar of IR and Friends. Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia National University, Canberra. May 14.
 
 # Book Review, Translation, and Chapters
+1. 王成军、吴令飞(2017)空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271
 1. 许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 北京：中国科学出版社.
 1. 王薇、王成军、王颖、刘璟 （翻译） (2013). 社会网络分析：方法与实践. 北京：机械工业出版社. [Translation of the book Social Network Analysis for Startups: Finding connections on the Social Web., by Maksim Tsvetovat & Alexander Kouznetsov. (2011). O’Reilly Media]
 1. 王成军. (2012, Aug 17). 爆发：人类行为在时间尺度上的特征. 中国科学报, 06. [Review of the book Bursts: The Hidden Pattern Behind Everything We Do., by Albert-Laszlo Barabasi].
@@ -121,7 +117,7 @@ I served as a reviewer for International Journal of Public Opinion Research (IJP
 1. Outstanding Paper Award of People.com (Oct, 2009)
 1. Top Award of the Challenge Cup of Peking University (Jun, 2009)
 
-# Programming
+# Software
 1. [iching](https://pypi.python.org/pypi/iching/), a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).
 1. [networkdiffusion](https://github.com/chengjun/networkdiffusion), a R package which can help simulate and visualize the network diffusion.
 1. [scholarNetwork](https://pypi.python.org/pypi/scholarNetwork/), a Python package to crawl and visualize the coauthor network of Google Scholars.
