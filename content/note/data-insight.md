@@ -143,6 +143,15 @@ To-do:
 
 [^Lakhani]: Boudreau, K. J., Lacetera, N., & Lakhani, K. R. (2011). Incentives and problem uncertainty in innovation contests: an empirical analysis. Management Science, 57(5), 843-863.
 
+
+## 参与的均匀性
+
+昨天看了一点Alex 'SANDY' Pentland的书social physics，关于如何合作Sandy有很多看似惊世骇俗的观点，其中提到team的collective intelligence他说social sensitivity、话轮的均匀性可以提到团队绩效（群体智慧），见Evidence for a Collective Intelligence Factor in the Performance of Human Groups一文，sandy还在哈佛商业评论吹了一通The New Science of Building Great Teams，强调face-to-face的团队互动、均匀的参与对于team performance的重要性：
+
+> (Group intelligence) was negatively correlated with the variance in the number of speaking turns by group members.
+
+他们就用variance测量的参与的均匀程度，方差越小越好。variance越大，香农熵越大，m越大，m/M越大，绩效越低，与实际数据发现一致。
+
 ### 数据
 
 **arXiv bulk data access amazon S3**
