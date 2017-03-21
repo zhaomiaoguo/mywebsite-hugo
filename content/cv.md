@@ -41,17 +41,18 @@ Cheng-Jun Wang is currently an assistant research fellow in the School of Journa
 1. **Wang, C.J.**, Wu, L*, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. [doi:10.1038/srep34059](http://www.nature.com/articles/srep34059)
 2. Wu, L., **Wang, C.J.** * (2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. [doi: 10.1038/srep33103](http://www.nature.com/articles/srep33103)
 3. Chandra, Y.*, Jiang, C.L., **Wang, C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE, 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
-4. Jiang, C.L*, Yang, M, **Wang, C.J.** (2016) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. doi: 10.1177 /0265407516640603
+4. Jiang, C.L*, Yang, M, **Wang, C.J.** (2016) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. 1-21. [doi: 10.1177 /0265407516640603](http://journals.sagepub.com/doi/full/10.1177/0265407516640603)
 5. **Wang, C.J.**, Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
 6. **Wang, C.J.** *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
-7. 王成军 (2016) 大数据计算与《纸牌屋》生成. 传媒评论. 5:63-66
-8. 王成军 (2016) 计算传播学的起源、概念与应用. 编辑学刊,3:59-64.
-9. 王成军（2015）计算传播学:作为计算社会科学的传播学.中国网络传播研究,8:193-208.
-10. 王成军（2015）“今日头条”的技术逻辑：网络爬虫+矩阵筛选.传媒评论,10:34-37.
-12. 祝建华,彭泰权,梁海,**王成军**,秦洁,陈鹤鑫 (2014) 计算社会科学在新闻传播研究中的应用. 科研信息化技术与应用. 5 (2), 3-13
-13. **王成军**,刘德寰,杨旭 (2011) 从自我实现到群体互动——“人肉搜索”的动机、态度和行为研究,中国传媒报告，10(02):63-73.
-14. **王成军**,刘德寰 (2011) 移動的時尚：追求時尚與手機互聯網的使用，香港《传媒透视》, (07):12-15.
-15. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》, (09):12-13.
+7. 杜骏飞, 曲飞帆, **王成军**（2016）[2015年中国新闻传播学论著评析](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDPREP&filename=YANJ201612007). 新闻与传播研究，12：108-119
+7. 王成军 (2016) [大数据计算与《纸牌屋》生成](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=SJXW201605024). 传媒评论. 5:63-66
+8. 王成军 (2016) [计算传播学的起源、概念与应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=BJXZ201603016). 编辑学刊,3:59-64.
+9. 王成军（2015）[计算传播学:作为计算社会科学的传播学](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CFJD&dbname=CJFDLASN2015&filename=ZWCY201400013).中国网络传播研究,8:193-208.
+1. 王成军（2015）[“今日头条”的技术逻辑：网络爬虫+矩阵筛选](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=SJXW201510017).传媒评论,10:34-37.
+1. 祝建华,彭泰权,梁海,**王成军**,秦洁,陈鹤鑫 (2014) [计算社会科学在新闻传播研究中的应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=KYXH201402001). 科研信息化技术与应用. 5 (2), 3-13
+1. **王成军**,刘德寰,杨旭 (2011) 从自我实现到群体互动——“人肉搜索”的动机、态度和行为研究,中国传媒报告，10(02):63-73.
+1. **王成军**,刘德寰 (2011) 移動的時尚：追求時尚與手機互聯網的使用，香港《传媒透视》, (07):12-15.
+1. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》, (09):12-13.
 
 # Conference Papers
 1. Wang, C.J. (2015). Information diffusion on Microblogs: Testing the threshold hypothesis of interpersonal effects. Conference on Complex System (CCS'15), Tempe, Arizona, USA. Sep 28-Oct 2.

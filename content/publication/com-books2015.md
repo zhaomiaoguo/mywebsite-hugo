@@ -1,7 +1,7 @@
 +++
-publication = "新闻与传播研究,12."
+publication = "新闻与传播研究"
 url_video = ""
-url_pdf = "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=SJXW201510017"
+url_pdf = "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDPREP&filename=YANJ201612007"
 url_code = ""
 selected = false
 abstract_short = ""
@@ -23,3 +23,6 @@ math = false
   image = ""
 
 +++
+
+
+杜骏飞, 曲飞帆, **王成军**（2016）2015年中国新闻传播学论著评析. 新闻与传播研究，12：108-119
