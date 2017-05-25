@@ -12,7 +12,7 @@ math = true
 
 url_pdf = "http://campus.swarma.org/public/ueditor/php/upload/file/20170413/1492066746503564.pdf"
 url_slides = "http://campus.swarma.org/public/ueditor/php/upload/file/20170413/1492066746503564.pdf"
-url_video = "http://api.duobeiyun.com/api/v3/room/enter?deviceType=2&nickname=user7345&partner=20150907105325&roomId=jz155448e1f3a14bd0930c855ef72819b0&timestamp=1492225737000&uid=55ef14e8-9665-4dbc-a3fb-ca522d0d0710&userRole=2&sign=58a05a521ce5abfe6e64d166d90c4b41"
+url_video = "http://campus.swarma.org/gvid=10140"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -30,4 +30,4 @@ AI时代，每一秒钟,整个互联网上就有 60 万条信息在 Facebook 上
 - 时间：2017-04-12 20:00-23:00
 - 集智学园简介：http://campus.swarma.org/gvid=10140
 
-<iframe id="video" controls="controls" muted="muted"  src="http://api.duobeiyun.com/api/v3/room/enter?deviceType=2&nickname=user7345&partner=20150907105325&roomId=jz155448e1f3a14bd0930c855ef72819b0&timestamp=1492225737000&uid=55ef14e8-9665-4dbc-a3fb-ca522d0d0710&userRole=2&sign=58a05a521ce5abfe6e64d166d90c4b41" height=500 width="100%"></iframe>
+<iframe id="video" controls="controls" muted="muted"  src="http://campus.swarma.org/gvid=10140" height=500 width="100%"></iframe>

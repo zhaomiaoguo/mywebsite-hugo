@@ -55,8 +55,10 @@ Cheng-Jun Wang is currently an assistant research fellow in the School of Journa
 1. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》, (09):12-13.
 
 # Conference Papers
+1. Wang, C.J. (2017) [networkdiffusion](https://github.com/chengjun/networkdiffusion): Simulating and Visualizing Network Diffusion Using R. The 10th China R Conference. Beijing, May 20-21. [Slides](http://chengjunwang.com/network-diffusion/#/).
+1. Wang, C.J. Zhang, X. (2017) [Analyzing Mobile Phone Data With Network Science](http://tinyurl.com/jlac4lw). The 67th Annual Conference of International Communication Association (ICA), San Diego, USA, May 27, 2017.
 1. Wang, C.J. (2015). Information diffusion on Microblogs: Testing the threshold hypothesis of interpersonal effects. Conference on Complex System (CCS'15), Tempe, Arizona, USA. Sep 28-Oct 2.
-1. Wang, C.J., Chen, H.X., Zhang, X.(2015) The Landscape of Information Diffusion on Sina Weibo: Investigating the Rich-Club Effect. Paper to be presented to the 65th Annual Conference of International Communication Association (ICA), San Juan, Puerto Rico, 21-25 May 2015.
+1. Wang, C.J., Chen, H.X., Zhang, X.(2015) [The Landscape of Information Diffusion on Sina Weibo: Investigating the Rich-Club Effect](http://tinyurl.com/msfdgm2). Paper to be presented to the 65th Annual Conference of International Communication Association (ICA), San Juan, Puerto Rico, 21-25 May 2015.
 1. Lingfei Wu, Jiang Zhang, Marco Janssen, Cheng-Jun Wang, Min Zhao (2014). Attention Balls. The 6th International Conference on Social Informatics. Barcelona, 10-13 November 2014.
 1. Wang, C.J. (2014). The Origin of Bursts in Public Attention: The Temporality Hypothesis for the Diffusion of YouTube Videos. Paper to be presented to the 64th Annual Conference of International Communication Association (ICA), Seattle, Washington, USA. May 22-26.
 1. Wang, C.J, Chen, H.X (2013). Social selection or social influence: Network analysis of information flow within the Rich-club of Sina Weibo. Paper to be presented to the annual conference of International Association for Media and Communication Research (IAMCR), Dublin, Ireland, June 25-29.

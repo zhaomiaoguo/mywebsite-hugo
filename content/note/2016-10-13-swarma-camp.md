@@ -2,6 +2,7 @@
 layout: post
 title: "记凯风-集智训练营"
 comments: true
+date: 2016-10-13
 categories:
 - 学习
 tags:

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title></title>
     <link>https://chengjun.github.io/post/index.xml</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Cheng-Jun Wang</copyright>
@@ -18,13 +18,42 @@
       <guid>https://chengjun.github.io/post/news2017/</guid>
       <description>
 
+&lt;h1 id=&#34;云南白族扎染暑期社会实践指导&#34;&gt;云南白族扎染暑期社会实践指导&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Q: 关于实际想探究问题，我们又探究了一下，但感觉都找不到很具体的研究方向，我整理了一下我们大概的想法，麻烦老师你看看有没有哪个想法具有可研究性😶&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1. 民族旅游发展下的“扎染女”的生存现状与角色变迁&lt;/li&gt;
+&lt;li&gt;2.扎染工艺需要做出怎样的改变，才能继续发展?&lt;/li&gt;
+&lt;li&gt;3.当地工艺在过去是怎么发展和延续的？&lt;/li&gt;
+&lt;li&gt;4.我们可以研究当地人在怎么努力挽救这个工艺么&lt;/li&gt;
+&lt;li&gt;5.从扎染看当地经济结构的变迁？&lt;/li&gt;
+&lt;li&gt;6.探究云南白族扎染工艺当前生存状况并以白族扎染为例探究对传统手工艺的生产性方式保护.&lt;/li&gt;
+&lt;li&gt;7.探究白族扎染的工艺特色，艺术特征，在现代社会的创新运用.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A: 首先概念化，白族扎染是一种国家非物质文化遗产，也是一种传传统手工技艺。这背后对应着什么概念？然后是寻找新的问题。白族扎染作为一种手工技艺，在传承的过程中存在什么新的问题（其它手工艺没有的）？当前产业化的趋势使部分传统扎染技艺走向消亡，原有的民间特色开始退化，污染问题日益突出，市场经营滋生了对经济利益的过度追求，植物染料板兰根供不应求。在此情势下，白族扎染技艺的传承受到困扰。产业化是手工艺凋亡的关键原因，这个解释力很强，白族扎染很难幸免。要确保找到的问题是新的问题，即明确而且有意义。如有可能，要尝试理论化，找找既有的理论如何解释传统工艺的传承。研究问题要将个体（研究者）的困惑与社会结构（问题）联系起来。你们要好好琢磨一下，面对这种手工艺，你们有什么困惑？它又反应了什么social issue？强烈建议你们首先查询相关的论文和图书。&lt;/p&gt;
+
+&lt;h1 id=&#34;华人思想库-省侨办共建智库-华智-项目讨论&#34;&gt;华人思想库-省侨办共建智库（华智）项目讨论&lt;/h1&gt;
+
+&lt;p&gt;《全球治理时代的中国新型智库》&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;陈晓晨 （人大重阳金融研究院专家）&lt;/li&gt;
+&lt;li&gt;2017-04-28 9:00 am&lt;/li&gt;
+&lt;li&gt;费彝民楼5楼圆桌会议室&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;信得过、用得着、靠得住；建设自己的报送渠道；资金来源稳定，不干涉。&lt;/p&gt;
+
 &lt;h1 id=&#34;计算传播学-用ai穿透你的注意力壁垒&#34;&gt;计算传播学——用AI穿透你的注意力壁垒&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;集智学园简介：&lt;a href=&#34;http://campus.swarma.org/gvid=10140&#34; target=&#34;_blank&#34;&gt;http://campus.swarma.org/gvid=10140&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;时间：2017-04-12 20:00-23:00&lt;/li&gt;
 &lt;li&gt;网址：&lt;a href=&#34;http://xue.duobeiyun.com&#34; target=&#34;_blank&#34;&gt;http://xue.duobeiyun.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;邀请码：jza9vj75t8&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;硕士预答辩&#34;&gt;硕士预答辩&lt;/h1&gt;
@@ -89,12 +118,18 @@
     </item>
     
     <item>
-      <title>networkdiffusion: Simulate and Visualize Network Diffusion</title>
+      <title>networkdiffusion: Simulating and Visualizing Network Diffusion Using R</title>
       <link>https://chengjun.github.io/post/networkdiffusion/</link>
       <pubDate>Mon, 13 Feb 2017 14:16:05 +0800</pubDate>
       
       <guid>https://chengjun.github.io/post/networkdiffusion/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/chengjun/networkdiffusion&#34; target=&#34;_blank&#34;&gt;networkdiffusion&lt;/a&gt;, a R package which can help simulate and visualize the network diffusion.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/chengjun/networkdiffusion&#34; target=&#34;_blank&#34;&gt;networkdiffusion&lt;/a&gt;, an R package which can help simulate and visualize the network diffusion. &lt;a href=&#34;http://chengjunwang.com/network-diffusion/#/&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;related-activity&#34;&gt;Related Activity&lt;/h2&gt;
+
+&lt;p&gt;Wang, C.J. (2017) &lt;a href=&#34;https://github.com/chengjun/networkdiffusion&#34; target=&#34;_blank&#34;&gt;networkdiffusion&lt;/a&gt;: Simulating and Visualizing Network Diffusion Using R. The 10th China R Conference. Beijing, May 20-21.&lt;/p&gt;
 </description>
     </item>
     
