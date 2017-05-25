@@ -1,8 +1,6 @@
 +++
 title =  "On teaching"
 date = "2015-10-30"
-summary = """
-上课总结与自我评估材料
 """
 +++
 
