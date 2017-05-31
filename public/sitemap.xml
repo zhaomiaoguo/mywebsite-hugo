@@ -28,7 +28,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/lab-thinktank/</loc>
+      <loc>https://chengjun.github.io/note/2017-05-07-lab-thinktank/</loc>
       <lastmod>2017-05-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/conference-host/</loc>
+      <loc>https://chengjun.github.io/note/2017-04-01-conference-host/</loc>
       <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/ndcw/</loc>
+      <loc>https://chengjun.github.io/note/2017-03-20-ndcw/</loc>
       <lastmod>2017-03-20T11:18:42+08:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/job/</loc>
+      <loc>https://chengjun.github.io/note/2017-03-15-job/</loc>
       <lastmod>2017-03-15T12:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/my-children/</loc>
+      <loc>https://chengjun.github.io/note/2017-03-21-my-children/</loc>
       <lastmod>2017-03-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -148,7 +148,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/data-insight/</loc>
+      <loc>https://chengjun.github.io/note/2017-02-17-data-insight/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -404,7 +404,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/allowmetric-growth/</loc>
+      <loc>https://chengjun.github.io/note/2016-02-17-allowmetric-growth/</loc>
       <lastmod>2016-02-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -428,7 +428,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/house/</loc>
+      <loc>https://chengjun.github.io/note/2015-12-30-house/</loc>
       <lastmod>2015-12-30T00:00:00+00:00</lastmod>
     </url>
     
@@ -580,7 +580,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/tencent-reflection/</loc>
+      <loc>https://chengjun.github.io/note/2014-05-14-tencent-reflection/</loc>
       <lastmod>2014-05-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -620,7 +620,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/startup/</loc>
+      <loc>https://chengjun.github.io/note/2010-03-30-startup/</loc>
       <lastmod>2010-03-30T00:00:00+00:00</lastmod>
     </url>
     
@@ -636,7 +636,7 @@
     
     
     <url>
-      <loc>https://chengjun.github.io/note/getting-started/</loc>
+      <loc>https://chengjun.github.io/note/2000-04-20-getting-started/</loc>
       <lastmod>2000-04-20T12:00:00+00:00</lastmod>
     </url>
     
@@ -647,20 +647,6 @@
       <loc>https://chengjun.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://chengjun.github.io/note/miguo/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://chengjun.github.io/note/mili/</loc>
     </url>
     
   
@@ -746,6 +732,15 @@
     
     
     <url>
+      <loc>https://chengjun.github.io/tags/markdown/</loc>
+      <lastmod>2010-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://chengjun.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -797,8 +792,35 @@
     
     
     <url>
+      <loc>https://chengjun.github.io/tags/%E5%AE%B6%E4%B9%A1/</loc>
+      <lastmod>2014-05-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://chengjun.github.io/tags/%E5%B7%A5%E4%BD%9C/</loc>
+      <lastmod>2017-03-15T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://chengjun.github.io/categories/%E5%B7%A5%E4%BD%9C/</loc>
       <lastmod>2010-03-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://chengjun.github.io/tags/%E6%88%B7%E5%8F%A3/</loc>
+      <lastmod>2017-03-15T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -817,6 +839,15 @@
     <url>
       <loc>https://chengjun.github.io/categories/%E7%A0%94%E7%A9%B6/</loc>
       <lastmod>2015-11-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://chengjun.github.io/tags/%E8%89%AF%E5%B8%88%E7%9B%8A%E5%8F%8B/</loc>
+      <lastmod>2014-06-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

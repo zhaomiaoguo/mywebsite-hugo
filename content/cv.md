@@ -18,7 +18,7 @@ Cheng-Jun Wang is currently an assistant research fellow in the School of Journa
 
 # Education
 - Ph.D, City University of Hong Kong, Hong Kong. Department of Media and Communication (September, 2010-November, 2014).
-  - [Dissertation](http://lbms03.cityu.edu.hk/theses/c_ftt/phd-com-b46934285f.pdf): Jumping over Network Threshold: Information Diffusion on Information Sharing Websites. Supervised by Jonathan J.H. Zhu
+  - Dissertation: Jumping over Network Threshold: Information Diffusion on Information Sharing Websites ([pdf](http://lbms03.cityu.edu.hk/theses/c_ftt/phd-com-b46934285f.pdf)). Supervised by Jonathan J.H. Zhu
 - M.A., Peking University, Beijing, China. Department of Journalism and Communication (September, 2008-June, 2010).
 - B.A., Lanzhou University, Lanzhou, China. Department of Journalism and Communication (September, 2006-June, 2008).
 - Academic Visiting, Australia National University,Canberra, Australia. Australian Demographic & Social Research Institute.
@@ -121,6 +121,7 @@ I served as a reviewer for International Journal of Public Opinion Research (IJP
 1. Top Award of the Challenge Cup of Peking University (Jun, 2009)
 
 # Software
+1. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
 1. [iching](https://pypi.python.org/pypi/iching/), a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).
 1. [networkdiffusion](https://github.com/chengjun/networkdiffusion), a R package which can help simulate and visualize the network diffusion.
 1. [scholarNetwork](https://pypi.python.org/pypi/scholarNetwork/), a Python package to crawl and visualize the coauthor network of Google Scholars.

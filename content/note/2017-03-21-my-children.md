@@ -19,6 +19,8 @@ date: "2017-03-11"
 
 <iframe src="http://chengjun.github.io/note/miguo/" scrolling="no" width="300" height="60"></iframe>
 
+米果有肠绞痛，休息不好，不太好带。暮白说米果是树懒熊，因为她经常挂在妈妈身上，必须要抱着才能安静。
+
 ## 宝华卫生院
 
 ![宝华卫生院](http://oaf2qt3yk.bkt.clouddn.com/957e47189f14eba13fdf8b6b77a78dc8.png)

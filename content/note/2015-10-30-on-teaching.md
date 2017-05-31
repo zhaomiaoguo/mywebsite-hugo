@@ -1,7 +1,6 @@
 +++
 title =  "On teaching"
 date = "2015-10-30"
-"""
 +++
 
 
