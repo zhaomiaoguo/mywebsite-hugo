@@ -206,7 +206,7 @@ defaultContentLanguageInSubdir = true
   weight = 7
 
 [[languages.zh.menu.main]]
-  name = "主页"
+  name = "关于"
   url = "/zh/#about.zh"
   weight = 1
 
