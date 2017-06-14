@@ -26,8 +26,3 @@ See this [GitHub repository](https://github.com/computational-class/cjc/) for ma
   - [2016 Autumn](https://github.com/data-journalism/dj2016)
 - NJU Undergraduate Course **Computational Communication**
   - [2017 Spring](https://github.com/computational-class/cc2017/)
-
-## Students
-- 研究生：周纬、秦强、陈志聪
-- 本科生（指导毕业论文）：
-  - 2017：沈越、曾维靓

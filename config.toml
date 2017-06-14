@@ -220,6 +220,11 @@ defaultContentLanguageInSubdir = true
   url = "/zh/#teaching.zh"
   weight = 3
 
+[[languages.zh.menu.main]]
+  name = "项目"
+  url = "/zh/#projects.zh"
+  weight = 4
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"
