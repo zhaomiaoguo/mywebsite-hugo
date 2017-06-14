@@ -67,6 +67,8 @@ Each time when I want to add some files, I can easily do it using atom and termi
 
 I can inspect the effect by running `hugo server --watch`
 
+## deploying the html files
+
 After I make some changes, I can conveniently run the following code to deploy the html files to github pages.
 
 {{% alert note %}}
@@ -74,3 +76,11 @@ After I make some changes, I can conveniently run the following code to deploy t
 {{% /alert %}}
 
 For the source code in the mywebsite-hugo folder, I can also easily archive them within Atom using the 'Git Plus' package.
+
+## Update
+
+There is another way to avoid opening a terminal by using the Script package.
+
+- install the `Script` package of Atom,
+- open the deploy.sh within Atom
+- press `Ctrl + I`

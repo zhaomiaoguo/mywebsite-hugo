@@ -17,6 +17,10 @@
       <guid>https://chengjun.github.io/post/news2017/</guid>
       <description>
 
+&lt;h1 id=&#34;sunbelt2017社会网络分析国际研讨会&#34;&gt;SUNBELT2017社会网络分析国际研讨会&lt;/h1&gt;
+
+&lt;p&gt;2017年6月4日上午，实验中心成员王成军在北京参加了2017年XXXV|| International Network for Social Network Analysis Conference 社会网络分析国际研讨会及第十三届中国社会学会社会网与社会资本研究专业委员会年会，发表论文Leveraging the Flow of Collective Attention for Computational Communication Research，并主持社会网络与计算传播学分论坛第二场。&lt;/p&gt;
+
 &lt;h1 id=&#34;本科生论文答辩&#34;&gt;本科生论文答辩&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -32,19 +36,17 @@
 &lt;ul&gt;
 &lt;li&gt;周纬 《权威与中心:基于HITS算法的收视率分析》&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;本科生&lt;/p&gt;
+&lt;li&gt;本科生
 
 &lt;ul&gt;
 &lt;li&gt;黄浩 134056004 􏴃􏳤􏱼􏱽􏱾􏱿􏲀􏲄􏲁􏱴􏲅􏲆􏳓􏳔􏳕􏲄􏲯􏲰关于搭讪艺术家的行为动机与策略的调查报告&lt;/li&gt;
 &lt;li&gt;沈越 &lt;a href=&#34;https://data-journalism.github.io/olympic/index.html&#34; target=&#34;_blank&#34;&gt;《“梦之队”统治奥运会？》&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;曾维靓 131050038 《大学生群体对于微博原生广告的态度及其影响因素》
-􏴊􏴋􏴃􏳤􏱼􏱽􏱾􏱿􏲀􏲄􏲁􏱴􏲅􏲆􏳓􏳔􏳕􏲄􏲯􏲰􏴃􏳤􏱼􏱽􏱾􏱿􏲀􏲄􏲁􏱴􏲅􏲆􏳓&lt;/p&gt;
-
-&lt;h1 id=&#34;云南白族扎染暑期社会实践指导&#34;&gt;云南白族扎染暑期社会实践指导&lt;/h1&gt;&lt;/li&gt;
+&lt;li&gt;曾维靓 131050038 《大学生群体对于微博原生广告的态度及其影响因素》
+􏴊􏴋􏴃􏳤􏱼􏱽􏱾􏱿􏲀􏲄􏲁􏱴􏲅􏲆􏳓􏳔􏳕􏲄􏲯􏲰􏴃􏳤􏱼􏱽􏱾􏱿􏲀􏲄􏲁􏱴􏲅􏲆􏳓&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h1 id=&#34;云南白族扎染暑期社会实践指导&#34;&gt;云南白族扎染暑期社会实践指导&lt;/h1&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Q: 关于实际想探究问题，我们又探究了一下，但感觉都找不到很具体的研究方向，我整理了一下我们大概的想法，麻烦老师你看看有没有哪个想法具有可研究性😶&lt;/p&gt;
@@ -187,7 +189,9 @@
       <pubDate>Mon, 13 Feb 2017 12:54:27 +0800</pubDate>
       
       <guid>https://chengjun.github.io/post/hugo2github/</guid>
-      <description>&lt;p&gt;I tried to move from jekyll to hugo to enhance my personal website. But I still want to use Github Pages to host the generated html files (in the &lt;code&gt;Public&lt;/code&gt; folder). The trick is you have to move the files in the &lt;code&gt;Public&lt;/code&gt; folder to the local folder of your github folder.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;I tried to move from jekyll to hugo to enhance my personal website. But I still want to use Github Pages to host the generated html files (in the &lt;code&gt;Public&lt;/code&gt; folder). The trick is you have to move the files in the &lt;code&gt;Public&lt;/code&gt; folder to the local folder of your github folder.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Create on GitHub &lt;code&gt;mywebsite-hugo&lt;/code&gt; repository (it will host Hugo’s content)&lt;/li&gt;
@@ -244,6 +248,8 @@ cd ..
 
 &lt;p&gt;I can inspect the effect by running &lt;code&gt;hugo server --watch&lt;/code&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;deploying-the-html-files&#34;&gt;deploying the html files&lt;/h2&gt;
+
 &lt;p&gt;After I make some changes, I can conveniently run the following code to deploy the html files to github pages.&lt;/p&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -253,6 +259,16 @@ cd ..
 
 
 &lt;p&gt;For the source code in the mywebsite-hugo folder, I can also easily archive them within Atom using the &amp;lsquo;Git Plus&amp;rsquo; package.&lt;/p&gt;
+
+&lt;h2 id=&#34;update&#34;&gt;Update&lt;/h2&gt;
+
+&lt;p&gt;There is another way to avoid opening a terminal by using the Script package.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;install the &lt;code&gt;Script&lt;/code&gt; package of Atom,&lt;/li&gt;
+&lt;li&gt;open the deploy.sh within Atom&lt;/li&gt;
+&lt;li&gt;press &lt;code&gt;Ctrl + I&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

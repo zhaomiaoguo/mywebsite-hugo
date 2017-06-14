@@ -13,7 +13,7 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [blackfriday]
   hrefTargetBlank = true
@@ -167,33 +167,58 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "/en/#about"
   weight = 1
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "/en/#publications_selected"
   weight = 2
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "/en/#projects"
   weight = 3
 
 [[menu.main]]
   name = "News"
-  url = "#posts"
+  url = "/en/#posts"
   weight = 4
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "/en/#teaching"
   weight = 5
 
 [[menu.main]]
   name = "Contact"
-  url = "#contact"
+  url = "/en/#contact"
   weight = 6
+
+[[menu.main]]
+  name = "中文"
+  url = "../zh"
+  weight = 7
+
+[[languages.zh.menu.main]]
+  name = "English"
+  url = "../en"
+  weight = 7
+
+[[languages.zh.menu.main]]
+  name = "主页"
+  url = "/zh/#about.zh"
+  weight = 1
+
+[[languages.zh.menu.main]]
+  name = "新闻"
+  url = "/zh/#posts.zh"
+  weight = 2
+
+[[languages.zh.menu.main]]
+  name = "教学"
+  url = "/zh/#teaching.zh"
+  weight = 3
 
 # Taxonomies.
 [taxonomies]
@@ -207,3 +232,6 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+
+[languages.zh]
+  languageCode = "zh-cn"
