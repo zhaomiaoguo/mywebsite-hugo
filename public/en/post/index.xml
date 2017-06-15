@@ -964,5 +964,428 @@ With Jekyll, something that looked like&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>Blogging with markdown on Octopress</title>
+      <link>https://chengjun.github.io/en/post/en/2013-08-03-bloging-with-markdown-on-octopress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chengjun.github.io/en/post/en/2013-08-03-bloging-with-markdown-on-octopress/</guid>
+      <description>
+
+&lt;h3 id=&#34;set-up-octopress&#34;&gt;Set up Octopress&lt;/h3&gt;
+
+&lt;p&gt;I refer to this &lt;a href=&#34;http://www.yanjiuyanjiu.com/blog/20130401/&#34; target=&#34;_blank&#34;&gt;blog&lt;/a&gt; and this &lt;a href=&#34;http://zerodie.github.io/blog/2012/01/19/octopress-github-pages/&#34; target=&#34;_blank&#34;&gt;blog&lt;/a&gt; to setup octopress. It&amp;rsquo;s very helpful for windows users.&lt;/p&gt;
+
+&lt;h3 id=&#34;for-encoding-errors&#34;&gt;For encoding errors&lt;/h3&gt;
+
+&lt;p&gt;Most chinese windows users encounter the problem of encoding error, such as &lt;a href=&#34;http://www.v2ex.com/t/26027&#34; target=&#34;_blank&#34;&gt;this one&lt;/a&gt;: invalid byte sequence in GBK. I handle it following three suggestions:&lt;/p&gt;
+
+&lt;p&gt;1.Modify the file located at C:\Ruby193\lib\ruby\gems\1.9.1\gems\jekyll-0.11.2\lib\jekyll\convertible.rb, to change:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;self.content = File.read(File.join(base, name))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;into:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;self.content = File.read(File.join(base, name), :encoding =&amp;gt; &amp;quot;utf-8&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;2.Make sure the markdown file is encoded with utf-8 without BOM&lt;/p&gt;
+
+&lt;p&gt;3.Set the language in the git bash:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;set LANG=zh_CN.UTF-8
+
+set LC_ALL=zh_CN.UTF-8
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;writing-markdown-post-with-markdownpad&#34;&gt;Writing markdown post with MarkdownPad&lt;/h3&gt;
+
+&lt;p&gt;Using MarkdownPad, you can instantly see what your Markdown documents look like in HTML. While you type, LivePreview will automatically scroll to the current location you’re editing.&lt;/p&gt;
+
+&lt;h3 id=&#34;understanding-the-git-flow-of-octopress-blogs&#34;&gt;Understanding the git flow of Octopress blogs&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://systeminterrupt.me/images/2013-06-16/Octopress_Deployment_Chain.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, we operate at the local, and then we push the changes to the server of github.&lt;/p&gt;
+
+&lt;p&gt;For the local files, there are two parts: sources &amp;amp; public. We first write post to the directory of &amp;ldquo;_posts&amp;rdquo;; Second, we copy the file to the public file (rake generate), and at the moment, you can preview the local files (rake preview); Third, you can publish/push the local files to the server (rake deploy).&lt;/p&gt;
+
+&lt;p&gt;On the server, there are two parts: master &amp;amp; source. In the source part of the server, we can archive the local files.&lt;/p&gt;
+
+&lt;p&gt;If you undertand the logic above well, you know clearly how to modify one post.&lt;/p&gt;
+
+&lt;h3 id=&#34;modifying-a-post&#34;&gt;Modifying a post&lt;/h3&gt;
+
+&lt;p&gt;After you have publish a post, you may need to modify the content: First, to find the post in the directory of &amp;ldquo;octopress/source/_posts&amp;rdquo;; Second, to modify it with MarkdownPad; Third, to publish the modified post:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rake generate
+rake preview
+rake deploy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Click here to preview &lt;a href=&#34;http://localhost:4000]&#34; target=&#34;_blank&#34;&gt;http://localhost:4000&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Copy the changes to the source for memory.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git add .
+git commit -m &#39;your message&#39;
+git push origin source
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;clone-your-octopress-to-blog-from-two-places&#34;&gt;Clone Your Octopress to Blog From Two Places&lt;/h3&gt;
+
+&lt;p&gt;Refer to this post: &lt;a href=&#34;http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/&#34; target=&#34;_blank&#34;&gt;http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;add-mathjax-to-write-eqations&#34;&gt;Add mathjax to write eqations&lt;/h3&gt;
+
+&lt;p&gt;Refer to this post: &lt;a href=&#34;http://www.yanjiuyanjiu.com/blog/20130402/&#34; target=&#34;_blank&#34;&gt;http://www.yanjiuyanjiu.com/blog/20130402/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;$$
+logit(Y&lt;em&gt;{ij} = 1) = ln(\frac{p&lt;/em&gt;{ij}}{1-p&lt;em&gt;{ij}}) = {\theta }^{T} \mathbf{\delta} [g(\mathbf{y}, \mathbf{X})]&lt;/em&gt;{ij}
+$$&lt;/p&gt;
+
+&lt;p&gt;以上公式当中，定义$$Y&lt;em&gt;{ij}$$为节点i和j之间形成链接的一个随机变量。当$$y&lt;/em&gt;{ij}$$取值由0变为1的时候，所带来的$$g(\mathbf{y},\mathbf{X})$$的变化表示为$$\mathbf{\delta} [g(\mathbf{y}, \mathbf{X})]_{ij}$$。&lt;/p&gt;
+
+&lt;p&gt;Using kramdown, you can also present the tables on octopress.[^1]. Other text.[^footnote]. One example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Check the result here:&lt;/p&gt;
+
+&lt;p&gt;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;:|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | &lt;strong&gt;strong&lt;/strong&gt;      | baz            |
+| Third line      |quux        | baz             | bar            |
+|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|&lt;/p&gt;
+
+&lt;h3 id=&#34;gist-embedding&#34;&gt;Gist Embedding&lt;/h3&gt;
+
+&lt;p&gt;Refer to this post: &lt;a href=&#34;http://octopress.org/docs/blogging/code/&#34; target=&#34;_blank&#34;&gt;http://octopress.org/docs/blogging/code/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;insert-photos-and-modify-the-size&#34;&gt;Insert photos and modify the size&lt;/h3&gt;
+
+&lt;p&gt;Refer to this link: &lt;a href=&#34;http://octopress.org/docs/plugins/image-tag/&#34; target=&#34;_blank&#34;&gt;http://octopress.org/docs/plugins/image-tag/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-Hipwe3gjPn8/UUZW6a_Y1_I/AAAAAAAAAys/9QbECNQCUAA/s1267-fcrop64=1,015a0000fb7bd34c/optimus%2Bprime.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I am Optimus Prime, and I send this message to any surviving Autobots taking refuge among the stars: we are here, we are waiting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;use-the-twilight-color-scheme&#34;&gt;Use the Twilight Color Scheme&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;def hello
+  puts &amp;quot;Hello!&amp;quot;
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;{:lang=&amp;ldquo;ruby&amp;rdquo;}&lt;/p&gt;
+
+&lt;p&gt;Just add {:lang =&amp;ldquo;ruby&amp;rdquo;} below your code block, and bear in mind that there is no indent for this line:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    def hello
+      puts &amp;quot;Hello!&amp;quot;
+    end
+{:lang=&amp;quot;ruby&amp;quot;}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;{:lang=&amp;ldquo;ruby&amp;rdquo;}&lt;/p&gt;
+
+&lt;p&gt;for thie inline script &lt;code&gt;def hello&lt;/code&gt;{:lang=&amp;ldquo;ruby&amp;rdquo;}, you can write in this way:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;for the inline script &#39;def hello&#39;{:lang=&amp;quot;ruby&amp;quot;}, you can write in this way:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;{:lang=&amp;ldquo;ruby&amp;rdquo;}&lt;/p&gt;
+
+&lt;p&gt;Refer to this link to use the twilight color scheme:&lt;a href=&#34;http://blog.alestanis.com/2013/02/04/octopress-and-the-twilight-color-scheme/&#34; target=&#34;_blank&#34;&gt;http://blog.alestanis.com/2013/02/04/octopress-and-the-twilight-color-scheme/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, this link is simpler: &lt;a href=&#34;http://cabeca.github.io/blog/2013/06/09/putting-some-twilight-on-octopress/&#34; target=&#34;_blank&#34;&gt;http://cabeca.github.io/blog/2013/06/09/putting-some-twilight-on-octopress/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fitting rank order distribution with R</title>
+      <link>https://chengjun.github.io/en/post/en/2014-03-17-fit-power-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chengjun.github.io/en/post/en/2014-03-17-fit-power-law/</guid>
+      <description>
+
+&lt;p&gt;The long-tail distribution can be quantified in primarily &lt;a href=&#34;http://arxiv.org/pdf/cond-mat/0412004.pdf?origin=publication_detail&#34; target=&#34;_blank&#34;&gt;three ways, see Newman &amp;rsquo;s paper here&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Power law distribution&lt;/li&gt;
+&lt;li&gt;Zipf distribution&lt;/li&gt;
+&lt;li&gt;Pareto distribution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here, I talk about the Zipf distribution which assesses the relationship between rank order and Frequency (probability).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Zipf&amp;rsquo;s law now refers more generally to frequency distributions of &amp;ldquo;rank data,&amp;rdquo; in which the relative frequency of the nth-ranked item is given by the Zeta distribution. from &lt;a href=&#34;http://en.wikipedia.org/wiki/Zipf&#39;s_law&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;dgbd&#34;&gt;DGBD&lt;/h2&gt;
+
+&lt;p&gt;In Gustavo Martínez-Mekler et al&amp;rsquo;s &lt;a href=&#34;http://www.plosone.org/article/info%3adoi/10.1371/journal.pone.0004791&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt;, they proposed a discrete generalized beta distribution: $$f&amp;reg; = A(N+1-r)^b/r^a$$, where r is the rank, &lt;strong&gt;N&lt;/strong&gt; is maximum value, A the normalization constant and (a, b) two fitting exponents.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s interesting to find that &lt;a href=&#34;http://journals.aps.org/pre/pdf/10.1103/PhysRevE.84.026113&#34; target=&#34;_blank&#34;&gt;Wu and Zhang (2011)&lt;/a&gt; adopt the DGBD distribution to quantify the online social systems. Basically, they are interested in accelerating growth in human online behaviors.&lt;/p&gt;
+
+&lt;p&gt;Deﬁning P as the number of active users in a day and T as the total activity generated by these users, they find a power law relationship between them $$T = P^\gamma$$. Given $$\gamma$$ larger than 1, there exists an accelerating growth phenomena in online systems (e.g., tagging, microblogging)&lt;/p&gt;
+
+&lt;p&gt;They denote the activity of a user in one day with t&amp;reg;, in which r is the decreasing rank of the activity among all individual activities in the day. Thus the maximum value of r, $$r_{max}$$, equals population P. The DGBD model of individual activities is then&lt;/p&gt;
+
+&lt;p&gt;$$t&amp;reg; = A(P+1−r)^b r^a (a &amp;gt; 0,b &amp;gt; 0)$$&lt;/p&gt;
+
+&lt;p&gt;They introduced that a determines the activities of highly active users(corresponds to the exponent $$\alpha$$ in Zipf’s law), b determines the activities of the less active users. Using the DGBD, They can ﬁt the empirical curves with $$R^2$$ &amp;gt; 0.9.&lt;/p&gt;
+
+&lt;p&gt;Here I start with an empirical dataset. The Tweet of Milan city in December 2013. Basically, we know the language of each tweet. Thus we have the frequency of each language.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;freq = c(1116, 2067, 137 ,  124, 643,  2042, 55  ,47186,  7504, 1488, 211,   1608,  3517 , 7  , 896  ,  378, 17 ,3098, 164977  ,  601 ,  196, 637, 149 , 44,2 ,  1801, 882   , 636,5184,  1851,  776 ,   343   , 851, 33  ,4011,   209,  715 ,  937 , 20,   6922, 2028 , 23,  3045 , 16 , 334,  31 ,  2)
+
+lan = c(&amp;quot;af&amp;quot;,&amp;quot;ar&amp;quot;,&amp;quot;bg&amp;quot;,&amp;quot;cs&amp;quot;,&amp;quot;da&amp;quot;,&amp;quot;de&amp;quot;,&amp;quot;el&amp;quot;,&amp;quot;en&amp;quot;,&amp;quot;es&amp;quot;,&amp;quot;et&amp;quot;,&amp;quot;fa&amp;quot;,&amp;quot;fi&amp;quot;,&amp;quot;fr&amp;quot;,&amp;quot;he&amp;quot;,&amp;quot;hr&amp;quot;,&amp;quot;hu&amp;quot;,&amp;quot;id&amp;quot;,&amp;quot;it&amp;quot;,&amp;quot;ja&amp;quot;,&amp;quot;ko&amp;quot;,&amp;quot;lt&amp;quot;,&amp;quot;lv&amp;quot;,&amp;quot;mk&amp;quot;,&amp;quot;ne&amp;quot;,&amp;quot;nl&amp;quot;,&amp;quot;no&amp;quot;,&amp;quot;pl&amp;quot;,&amp;quot;pt&amp;quot;,&amp;quot;ro&amp;quot;,&amp;quot;ru&amp;quot;,&amp;quot;sk&amp;quot;,&amp;quot;sl&amp;quot;,&amp;quot;so&amp;quot;,&amp;quot;sq&amp;quot;,&amp;quot;sv&amp;quot;,&amp;quot;sw&amp;quot;,&amp;quot;th&amp;quot;,&amp;quot;tl&amp;quot;,&amp;quot;tr&amp;quot;,&amp;quot;uk&amp;quot;,&amp;quot;und&amp;quot;,&amp;quot;ur&amp;quot;,&amp;quot;vi&amp;quot;,&amp;quot;zh-cn&amp;quot;,&amp;quot;zh-tw&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Thus, we can calculate the decreasing rank for each language.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Rank = rank(-freq, ties.method = c(&amp;quot;first&amp;quot;) )
+data = data.frame(lan, freq, Rank)
+data$Probability = data$Freq/sum(data$Freq)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We can write a simple function to fit the rank ordered data and capture the distribution.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;get_dgbd = function(freq){
+  Rank = rank(-freq, ties.method = c(&amp;quot;first&amp;quot;) )
+  p = freq/sum(as.numeric(freq))
+  # get the log form
+  log.f = log(freq)
+  log.p = log(p)
+  log.rank = log(Rank)
+  log.inverse.rank = log(length(Rank)+1-Rank)
+
+  # linear regression of zifp: for probability
+  cozp=coef(lm(log.p~log.rank))
+  zipf.p = function(x) exp(cozp[[1]] + cozp[2]*log(x))
+
+  # linear regression of zifp: for frequency
+  cozf=coef(lm(log.f~log.rank))
+  zipf.f = function(x) exp(cozf[[1]] + cozf[2]*log(x))
+
+  # linear regression of dgbd: for probability
+  codp=coef(lm(log.p~log.inverse.rank + log.rank))
+  dgbd.p = function(x) exp(codp[[1]]+ codp[[2]]*log(length(x)+1-x) + codp[[3]]*log(x))
+
+  # linear regression of dgbd: for frequency
+  codf=coef(lm(log.f~log.inverse.rank + log.rank))
+  dgbd.f = function(x) exp(codf[[1]]+ codf[[2]]*log(length(x)+1-x) + codf[[3]]*log(x))
+  return(c(zipf.p, zipf.f, dgbd.p, dgbd.f))
+}
+
+zipf.p = get_dgbd(data$Freq)[[1]]
+zipf.f = get_dgbd(data$Freq)[[2]]
+dgbd.p = get_dgbd(data$Freq)[[3]]
+dgbd.f = get_dgbd(data$Freq)[[4]]
+
+
+plot(freq~Rank,log=&amp;quot;xy&amp;quot;, xlab = &amp;quot;Rank (log)&amp;quot;, ylab = &amp;quot;Frequency (log)&amp;quot;, data = data)
+curve(zipf.f, col=&amp;quot;red&amp;quot;, add = T, n = length(data$Rank))
+curve(dgbd.f, col=&amp;quot;blue&amp;quot;, add = T, n = length(data$Rank))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Remember to specify the length of values in &amp;lsquo;curve&amp;rsquo;. About its importance, check &lt;a href=&#34;http://stackoverflow.com/questions/22446006/why-is-curve-so-different-from-lines-and-points-in-r&#34; target=&#34;_blank&#34;&gt;this post&lt;/a&gt; on stackoverflow.&lt;/p&gt;
+
+&lt;p&gt;Finally, we can plot it with ggplot2.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;require(ggplot2)
+P = ggplot(data=data, aes(x=Rank, y=Freq, label = Var1)) + geom_point() +
+  coord_trans(xtrans = &amp;quot;log10&amp;quot;, ytrans = &amp;quot;log10&amp;quot;)+
+  stat_function(fun = dgbd.f, n = length(Rank), colour = &#39;red&#39;, size = 1)+
+  geom_text(aes(label=Var1),hjust=1.5, vjust=0, angle = 45, size = 3)
+
+png(file = &amp;quot;./language_rank_order_distribution2.png&amp;quot;,
+    width=8, height=5,
+    units=&amp;quot;in&amp;quot;, res=700)
+P
+dev.off()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm3.staticflickr.com/2725/13212714535_820edf5a12_z.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm3.staticflickr.com/2767/13213038184_4d8fb106d2_z.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-construct-your-model&#34;&gt;How to construct your model?&lt;/h2&gt;
+
+&lt;p&gt;Using the DGBD model, we can fit the frequency-rank data almost perfectly. However, there are many other other forms of alternative equations. For example, there are Zipf-Manderbrot Model and &lt;a href=&#34;http://statweb.stanford.edu/~owen/courses/306a/ZipfAndGutenberg.pdf&#34; target=&#34;_blank&#34;&gt;its modifications&lt;/a&gt;, How to guarantee that which specific model is the right one? We need to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;learn more about the underlying mechanisms.&lt;/li&gt;
+&lt;li&gt;observe the patterns of the data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the paper titled &lt;a href=&#34;http://www3.nd.edu/~networks/Publication%20Categories/03%20Journal%20Articles/Social%20Science/Modeling%20bursts_Phys.%20Rev.%20E%2073,%20036127%20(2006).pdf&#34; target=&#34;_blank&#34;&gt;Modeling bursts and heavy tails in human dynamics&lt;/a&gt;, Alexei Vázquez et al tried to propose two queuing models to explain the &lt;strong&gt;value&lt;/strong&gt; of scaling parameter in the temporal patterns of human behaviors. They capture the temporal patterns with two measurements: interevent time $$\tau$$ and waiting times $$\tau_{w}$$.&lt;/p&gt;
+
+&lt;p&gt;The time between two consecutive events is called the interevent time, $$\tau$$; the waiting (or response) time, $$\tau_w$$, representing the amount of time a task waits on an individual’s priority list before being executed.&lt;/p&gt;
+
+&lt;p&gt;Assuming that &lt;strong&gt;the tasks are executed independently from each other at a constant rate $$\lambda$$&lt;/strong&gt;, the time can be approximated by a Poisson process:&lt;/p&gt;
+
+&lt;p&gt;$$p(\tau) = \lambda e^{-\lambda \tau}$$ .&lt;/p&gt;
+
+&lt;p&gt;However, we know that in many human behaviors, the Poisson process fails to capture the burst phenomenon. The temporal patterns can be generally categorized into two classes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A. The $$\alpha$$= 1 universality class: Web browsing, email, and library datasets&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;B. The $$\alpha$$=&lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; universality class: The correspondence of Einstein, Darwin, and Freud, which is characterized by &lt;strong&gt;a power law decay&lt;/strong&gt; combined with &lt;strong&gt;an exponential cutoff&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;$$p(\tau)\simeq \tau^{-&lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;} e^{-\tau / \tau_{0}}$$.&lt;/p&gt;
+
+&lt;p&gt;in which $$\tau_0 = \frac{1}{\mu (1-\sqrt{\rho})}$$, and $$\rho = \lambda / \mu$$. Recall that $$\lambda$$ is the arrival rate of new task, and $$\mu$$ is the response rate , thus $$\rho$$ is the task/job/traffic intensity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Subcritical regime: When $$\rho$$ &amp;lt; 1, there are fewer job, and more queuing space.&lt;/li&gt;
+&lt;li&gt;Critical regime: When $$\rho$$ = 1, arrival rate equals response rate&lt;/li&gt;
+&lt;li&gt;Supercritical regime: When $$\rho$$ &amp;gt; 1, there are more job, and less queuing space.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, they also find that the interevent time distribution between two consecutive transactions made by a stock broker. The distribution follows a power law with the exponential cutoff $$p(\tau)\simeq \tau^{-1.3} e^{-\tau / \tau_{0}}$$.&lt;/p&gt;
+
+&lt;p&gt;####References&lt;/p&gt;
+
+&lt;p&gt;Martínez-Mekler G, Martínez RA, del Río MB, Mansilla R, Miramontes P, et al. (2009) Universality of Rank-Ordering Distributions in the Arts and Sciences. PLoS ONE 4(3): e4791. doi:10.1371/journal.pone.0004791&lt;/p&gt;
+
+&lt;p&gt;Wu L, Zhang J. (2011) Accelerating growth and size-dependent distribution of human online activities. PHYSICAL REVIEW E 84, 026113 (2011)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generating networks with igraph</title>
+      <link>https://chengjun.github.io/en/post/en/2013-08-12-generating-networks-with-igraph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chengjun.github.io/en/post/en/2013-08-12-generating-networks-with-igraph/</guid>
+      <description>
+
+&lt;p&gt;We know that the most simple network is the regular network, such as the ring network. If all the edges in a network are generated randomly, we can get a random graph or Erdos-Renyi network (ER network).&lt;/p&gt;
+
+&lt;h2 id=&#34;erdős-rényi-random-graph-model&#34;&gt;Erdős–Rényi Random Graph model&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Erdős–Rényi model, named for Paul Erdős and Alfréd Rényi, is used for generating random graphs in which edges are set between nodes with equal probabilities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is a continuous shift between randomness and regularity. What are the networks between random network and regular networks?&lt;/p&gt;
+
+&lt;h2 id=&#34;watts-strogatz-small-world-model&#34;&gt;Watts-Strogatz Small World model&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Watts and Strogatz model is a random graph generation model that produces graphs with small-world properties.
+An initial lattice structure is used to generate a Watts-Strogatz model. Each node in the network is initially linked to its k closest neighbors. Another parameter is specified as the rewiring probability. Each edge has a probability p that it will be rewired to the graph as a random edge.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;barabási-albert-ba-preferential-attachment-model&#34;&gt;Barabási–Albert (BA) Preferential Attachment model&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Barabási–Albert model is a random network model used to demonstrate a preferential attachment or a &amp;ldquo;rich-get-richer&amp;rdquo; effect. In this model, an edge is most likely to attach to nodes with higher degrees. The network begins with an initial network of m nodes. m ≥ 2 and the degree of each node in the initial network should be at least 1, otherwise it will always remain disconnected from the rest of the network.&lt;/p&gt;
+
+&lt;p&gt;In the BA model, new nodes are added to the network one at a time. Each new node is connected to m existing nodes with a probability that is proportional to the number of links that the existing nodes already have.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We can use igraph to play the network games, and explore the properties of generated networks.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;igraph is an open source C library for the analysis of large-scale complex networks, with interfaces to R, Python and Ruby.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here is the R script for generating and visualizing networks.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;library(igraph)
+g1 &amp;lt;- graph.ring(500)
+g2 &amp;lt;- erdos.renyi.game(500, 0.0035)
+g3 &amp;lt;- rewire.edges( g1, prob = 0.5 )
+g4 &amp;lt;- barabasi.game(500)
+# 保存图片格式
+png(&amp;quot;d:/network_game.png&amp;quot;,
+    width=5, height=5,
+    units=&amp;quot;in&amp;quot;, res=700)
+# 绘制图片
+par(mfrow=c(2,2))
+plot(g1, vertex.label= NA, edge.arrow.size=0.02,vertex.size = 0.5, xlab = &amp;quot;Ring Network&amp;quot;)
+plot(g2, vertex.label= NA, edge.arrow.size=0.02,vertex.size = 0.5, xlab = &amp;quot;Random Network&amp;quot;)
+plot(g3, vertex.label= NA, edge.arrow.size=0.02,vertex.size = 0.5, xlab = &amp;quot;Small World Network&amp;quot;)
+plot(g4, vertex.label= NA, edge.arrow.size=0.02,vertex.size = 0.5, xlab = &amp;quot;Scale-free Network&amp;quot;)
+# 结束保存图片
+dev.off()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm3.staticflickr.com/2875/9490993155_0787ab3832_c.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of courese, there are other network games in the library of igraph, such as the game of forest fire.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;g5 &amp;lt;- forest.fire.game(200, fw.prob=0.37, bw.factor=0.32/0.37)
+plot(g5, vertex.label= NA, edge.arrow.size=0.02,vertex.size = 0.5)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Network_science#Network_models&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/Network_science#Network_models&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hosting pandoc slides on Octopress</title>
+      <link>https://chengjun.github.io/en/post/en/2013-08-06-present-pandoc-slides-on-octopress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chengjun.github.io/en/post/en/2013-08-06-present-pandoc-slides-on-octopress/</guid>
+      <description>&lt;p&gt;##&lt;/p&gt;
+
+&lt;p&gt;I have made a dzslides from a markdown file using pandoc, and then I want to archive and present it on octopress. Check the result to learn about how to make simple slides using pandoc &lt;a href=&#34;http://chengjun.github.io/slides/pandoc-slides&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The mechanism of octopress is a little bit inflexible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7340/9450821728_ac4f8c375e_o.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Basicially, we generate markdown files in the directory of _posts:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rake new_post[&amp;quot;the title of your post&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and then we transform the markdown files to html placed in the dirctory of public.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rake generate
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After that, we deploy the html files to the server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rake deploy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Thus, accordingly, the solution is given as following:&lt;/p&gt;
+
+&lt;p&gt;First, we make a slides folder in the source directory, e.g., &amp;ldquo;octopress/source/slides/&amp;rdquo;, and put the html of slide into this folder.&lt;/p&gt;
+
+&lt;p&gt;Second, we generate the file to the public folder and deploy the html file to the server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rake generate
+rake deploy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can open the slides directly with the url: &lt;a href=&#34;http://chengjun.github.io/slides/pandoc-slides&#34; target=&#34;_blank&#34;&gt;http://chengjun.github.io/slides/pandoc-slides&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

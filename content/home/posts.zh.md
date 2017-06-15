@@ -7,7 +7,7 @@ draft = false
 
 title = "新闻公告"
 subtitle = ""
-widget = "posts"
+widget = "posts-zh"
 
 # Order that this section will appear in.
 weight = 50
