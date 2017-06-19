@@ -11,7 +11,7 @@ authors = ["Cheng-Jun Wang"]
 date = "2017-02-18T22:20:56+08:00"
 url_video = ""
 url_project = ""
-title = "Information Diffusion on Microblogs"
+title = "Jumping over the Network Threshold of Information Diffusion"
 publication_short = ""
 publication = ""
 image_preview = ""
@@ -24,4 +24,4 @@ selected = false
 
 +++
 
-To be submitted. 
+To be submitted.

@@ -122,10 +122,10 @@ defaultContentLanguageInSubdir = true
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:wangchengjun@nju.edu.cn"
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fa"
+  #   link = "mailto:wangchengjun@nju.edu.cn"
 
   [[params.social]]
     icon = "twitter"
@@ -136,6 +136,11 @@ defaultContentLanguageInSubdir = true
     icon = "weibo"
     icon_pack = "fa"
     link = "//weibo.com/frankwang"
+
+  [[params.social]]
+    icon = "tasks"
+    icon_pack = "fa"
+    link = "/tweet/"
 
   [[params.social]]
     icon = "child"
