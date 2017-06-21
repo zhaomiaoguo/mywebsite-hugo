@@ -31,6 +31,30 @@
     </item>
     
     <item>
+      <title>紫金楼</title>
+      <link>https://chengjun.github.io/en/note/2017-06-14-school-building/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chengjun.github.io/en/note/2017-06-14-school-building/</guid>
+      <description>&lt;p&gt;紫金楼终于来了，现在正在封顶。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/a7bebcfc69fce0b45bb6c304e76ef6f0.png&#34; alt=&#34;紫金楼&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;根据中共江苏省委宣传部与南京大学签订的共建新闻传播学院协议，经教育部可研评估批复，南京大学新闻传播学院楼已完成开工前手续办理，于近日正式开工建设。&lt;/p&gt;
+
+&lt;p&gt;2016年4月25日下午，江苏省委宣传部和南京大学新闻传播学院共建的紫金楼奠基仪式在仙林校区举行，省委宣传部部长王燕文、南京大学党委书记张异宾等领导和新闻传播学院师生代表共同见证紫金楼奠基。&lt;/p&gt;
+
+&lt;p&gt;据了解，新闻传播学院楼坐落于仙林校区文科组团北部，总建筑面积&lt;strong&gt;10137.8&lt;/strong&gt;平方米，建筑高度17.3米，为地上&lt;strong&gt;四层&lt;/strong&gt;的框架结构。项目总投资6400万元，由江苏广播电视集团负责建设，预计于&lt;strong&gt;2018年3月底&lt;/strong&gt;竣工验收投入使用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/fd096961204e0a0039e7e902db0f89ec.png&#34; alt=&#34;示意图&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/e370fd20ef0c33d7bf17948903164b29.png&#34; alt=&#34;示意图&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Analyzing Mobile Phone Data With Network Science</title>
       <link>https://chengjun.github.io/en/publication/ica2017/</link>
       <pubDate>Sun, 14 May 2017 22:03:57 +0800</pubDate>
@@ -103,26 +127,6 @@ Every human behavior, including communicative behavior, involves four basic elem
 With only a few lines of code, load your datasets, visualize the data, perform analyses, and export the results. Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library. Manipulate your data in Python, then visualize it in on a Leaflet map via Folium.&lt;/p&gt;
 
 &lt;p&gt;Thank you for your attention. This is the end.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Analyzing Mobile Phone Data With Network Science</title>
-      <link>https://chengjun.github.io/en/note/2016-10-18-ica2017talk/</link>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjun.github.io/en/note/2016-10-18-ica2017talk/</guid>
-      <description>
-
-&lt;h3 id=&#34;abstract-150-200-word&#34;&gt;Abstract (150-200 word)&lt;/h3&gt;
-
-&lt;p&gt;With the widespread use of mobile computing devices in contemporary society, our trajectories in the physical space and virtual world are increasingly closely connected. Using the anonymous smartphone data, we can construct the communication network, mobility network, and attention network, and further analyze the data in the perspective of network science.&lt;/p&gt;
-
-&lt;h3 id=&#34;short-bio&#34;&gt;short-bio&lt;/h3&gt;
-
-&lt;p&gt;Cheng-Jun Wang, Ph.D. He is currently an assistant research fellow in the School of Journalism and Communication, Nanjing University. He is also the director of Ogilvy Data Science Lab, Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology, and Journal of Social and Personal Relationships.&lt;/p&gt;
-
-&lt;h3 id=&#34;20-25-minutes&#34;&gt;20-25 minutes&lt;/h3&gt;
 </description>
     </item>
     
@@ -259,6 +263,16 @@ from the RISE repository.&lt;/li&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://nic.nju.edu.cn/e1/29/c8913a188713/page.htm&#34; target=&#34;_blank&#34;&gt;https://nic.nju.edu.cn/e1/29/c8913a188713/page.htm&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;电话咨询了网络中心技术人员，对方不熟悉mac电脑！！！说可能是其他vpn修改了注册表。建议我重新安装，我重新安装了之后，依然没有什么作用。要考虑在windows下来完成这个过程了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oaf2qt3yk.bkt.clouddn.com/bf89148b1a6e799991676c29f2d37a96.png&#34; alt=&#34;virtualbox&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;通过virtualbox可以方便地实现bras连接，如上图打开了财务处网站。设置了一个共享文件夹。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In a Windows guest, shared folders are browseable and therefore visible in Windows Ex- plorer. So, to attach the host’s shared folder to your Windows guest, open Windows Ex- plorer and look for it under “My Networking Places” -&amp;gt; “Entire Network” -&amp;gt; “VirtualBox Shared Folders”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;1）上宽带；
 2）首次使用时，须先在电脑上建立“南大BRAS校外拨入”的VPN连接。根据您的操作系统，查看校外拨入连接的设置办法：WIN10系统 WIN8系统  WIN7系统 WIN XP系统      Macintosh 系统
   - 另：WINXP等旧系统可下载 BRAS客户端.rar ，解压后安装，并重启机器。注意：连接时，必须勾选 □off-campus 选项&lt;/p&gt;
@@ -316,6 +330,27 @@ from the RISE repository.&lt;/li&gt;
       
       <guid>https://chengjun.github.io/en/note/2017-03-15-job/</guid>
       <description>
+
+&lt;h1 id=&#34;高级职称评审会议&#34;&gt;高级职称评审会议&lt;/h1&gt;
+
+&lt;p&gt;拟定于六月底、七月初进行各系列高级职称评审会议（全部在仙林校区），述职与提问时间&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;教授：8+4min，&lt;/li&gt;
+&lt;li&gt;副教授、教育管理、思政和其他系列高级述职时间：6+2min。&lt;/li&gt;
+&lt;li&gt;PPT文件名请人事秘书老师按“申报序列编号_申报职称_单位名称_姓名”存放并打包
+
+&lt;ul&gt;
+&lt;li&gt;申报序列编号：教师01，实验工程02，图书编辑03，教育管理04，思想政治05；&lt;/li&gt;
+&lt;li&gt;例如：01_教授_文学院_XXX&lt;/li&gt;
+&lt;li&gt;如有视频，不要通过邮件发送。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;另外，请通知述职人自备优盘和述职材料述职当天带到述职现场，以备不时之需。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;请各位老师及时通知到各系列申报人员，做好述职准备以及ppt，各单位人事秘书老师邮件于&lt;strong&gt;6月27日中午12点前&lt;/strong&gt;发送至huwener@nju.edu.cn。具体安排述职地点及时间另行通知，谢谢！&lt;/p&gt;
+
+&lt;p&gt;人力资源处培训发展办公室&lt;/p&gt;
 
 &lt;h1 id=&#34;述职报告&#34;&gt;述职报告&lt;/h1&gt;
 

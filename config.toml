@@ -145,7 +145,7 @@ defaultContentLanguageInSubdir = true
   [[params.social]]
     icon = "child"
     icon_pack = "fa"
-    link = "/note/"
+    link = "/en/note/"
 
 
   [[params.social]]
