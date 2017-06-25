@@ -35,7 +35,7 @@
       <li>
         <i class="fa-li fa fa-phone fa-2x" aria-hidden="true"></i>
         <span>
-        {{- if $autolink }}<a href="电话:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
+        {{- if $autolink }}<a href="Tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
         </span>
       </li>
       {{ end }}
@@ -58,14 +58,14 @@
       </li>
       {{ end }}
 
-      {{ with $.Site.Params.address-cn }}
+      {{ with $.Site.Params.address_cn }}
       <li>
         <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
         <span>{{ . }}</span>
       </li>
       {{ end }}
 
-      {{ with $.Site.Params.office_hours-cn }}
+      {{ with $.Site.Params.office_hours_cn }}
       <li>
         <i class="fa-li fa fa-clock-o fa-2x" aria-hidden="true"></i>
         <span>{{ . }}</span>

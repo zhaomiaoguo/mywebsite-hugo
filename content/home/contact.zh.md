@@ -6,7 +6,7 @@ draft = false
 
 title = "联系"
 subtitle = ""
-widget = "contact-cn"
+widget = "contact_cn"
 
 # Order that this section will appear in.
 weight = 80
