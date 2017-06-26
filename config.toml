@@ -1,4 +1,4 @@
-baseurl = "https://chengjun.github.io/"
+baseurl = "https://chengjunwang.com/"
 title = ""
 copyright = "&copy; 2016 Cheng-Jun Wang"
 theme = "academic"
@@ -231,6 +231,11 @@ defaultContentLanguageInSubdir = true
   name = "项目"
   url = "/zh/#projects.zh"
   weight = 4
+
+[[languages.zh.menu.main]]
+  name = "联系"
+  url = "/zh/#contact.zh"
+  weight = 5
 
 # Taxonomies.
 [taxonomies]

@@ -30,4 +30,6 @@ AI时代，每一秒钟,整个互联网上就有 60 万条信息在 Facebook 上
 - 时间：2017-04-12 20:00-23:00
 - 集智学园简介：http://campus.swarma.org/gvid=10140
 
+<!--
 <iframe id="video" controls="controls" muted="muted"  src="http://campus.swarma.org/gvid=10140" height=500 width="100%"></iframe>
+-->

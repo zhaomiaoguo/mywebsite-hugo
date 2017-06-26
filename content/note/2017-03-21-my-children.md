@@ -17,7 +17,7 @@ date: "2017-03-11"
 
     译义有多种。孔子说：“智慧的人喜爱水，仁义的人喜爱山；智慧的人懂得变通，仁义的人心境平和。智慧的人快乐，仁义的人长寿。” 另一理解为 “智者乐，水” ——智者之乐，就像流水一样，阅尽世间万物、悠然、淡泊。“仁者乐，山” ——仁者之乐，就像大山一样，岿然矗立、崇高、安宁。
 
-<iframe src="http://chengjun.github.io/note/miguo/" scrolling="no" width="300" height="60"></iframe>
+<iframe src="https://chengjun.github.io/note/miguo/" scrolling="no" width="300" height="60"></iframe>
 
 米果有肠绞痛，休息不好，不太好带。暮白说米果是树懒熊，因为她经常挂在妈妈身上，必须要抱着才能安静。
 
@@ -69,7 +69,7 @@ date: "2017-03-11"
 # 米粒
 
 
-<iframe src="http://chengjun.github.io/note/mili/" scrolling="no" width="300" height="60"></iframe>
+<iframe src="https://chengjun.github.io/note/mili/" scrolling="no" width="300" height="60"></iframe>
 
 
 《梅花》 唐 崔道融
