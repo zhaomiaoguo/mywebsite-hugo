@@ -2,7 +2,7 @@
 highlight = true
 math = false
 date = "2017-07-16T14:32:07+08:00"
-title = "Data Tech2017大赛”"
+title = "Data Tech2017大赛"
 tags = ['news']
 summary = """
 
