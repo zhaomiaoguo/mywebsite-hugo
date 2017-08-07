@@ -6,8 +6,6 @@ date: "2017-03-11"
 ![](https://gallery.mailchimp.com/c007b6835f6475cf470f6e0ef/images/a4918492-d8c8-4a18-9e1f-93716e8dc526.gif)
 
 
-
-
 # 米果
 
 2017年4月10日，我的第二个孩子二女儿`米果`出生了。这个名字是暮白给孩子取得，我和暮白经常记错。暮白对米果说：爱你就像爱生命。米果的大名是**知乐**。[^1]
@@ -18,6 +16,9 @@ date: "2017-03-11"
 >《论语》·雍也篇，子曰：“知（zhì）者乐（yào）水，仁者乐（yào）山；知（zhì）者动，仁者静；知者乐（lè），仁者寿。”
 
     译义有多种。孔子说：“智慧的人喜爱水，仁义的人喜爱山；智慧的人懂得变通，仁义的人心境平和。智慧的人快乐，仁义的人长寿。” 另一理解为 “智者乐，水” ——智者之乐，就像流水一样，阅尽世间万物、悠然、淡泊。“仁者乐，山” ——仁者之乐，就像大山一样，岿然矗立、崇高、安宁。
+
+
+https://chengjunwang.com/data/miguo.html
 
 <iframe src="https://chengjunwang.com/data/miguo.html" scrolling="no" width="300" height="60"></iframe>
 
@@ -72,6 +73,7 @@ date: "2017-03-11"
 
 # 米粒
 
+https://chengjunwang.com/data/mili.html
 
 <iframe src="https://chengjunwang.com/data/mili.html" scrolling="no" width="300" height="60"></iframe>
 
