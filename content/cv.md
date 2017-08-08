@@ -101,7 +101,7 @@ I worked as a TA for the following courses:
 
 ## Professional affiliations
 
-I served as a reviewer for International Journal of Public Opinion Research (IJPOR), Computers in Human Behavior (CHB), Journal of the Association for Information Science and Technology (JASIST), as well as the conference of International Communication Association (ICA). My professional affiliations include:
+I served as a reviewer for International Journal of Public Opinion Research (IJPOR), Computers in Human Behavior (CHB), Journal of the Association for Information Science and Technology (JASIST), Communication Methods and Measures (CMM), as well as the conference of International Communication Association (ICA). My professional affiliations include:
 
 1. Complex System Society (CSS)
 1. International Communication Association (ICA)
