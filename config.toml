@@ -1,5 +1,5 @@
 baseurl = "https://chengjunwang.com/"
-title = ""
+title = "Academic"
 copyright = "&copy; 2016 Cheng-Jun Wang"
 theme = "academic"
 enableEmoji = true
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = true
 
 [params]
   name = "Cheng-Jun Wang"
-  role = "Assistant Research Fellow"
+  role = "Associate Professor"
   organization = "Nanjing University"
   organization_url = "http://nju.edu.cn"
   avatar = "chengjun.jpg"
@@ -87,7 +87,7 @@ defaultContentLanguageInSubdir = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = [hugo-academic.css]
   custom_js  = []
 
   # Publication types.

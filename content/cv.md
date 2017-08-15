@@ -8,7 +8,7 @@ notoc = true
 
 # Cheng-Jun Wang
 
-Cheng-Jun Wang is currently an assistant research fellow in the School of Journalism and Communication, Nanjing University. He is also the director of Ogilvy Data Science Lab, Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology, and Journal of Social and Personal Relationships.
+Cheng-Jun Wang is currently an associate professor in the School of Journalism and Communication, Nanjing University. He is also the director of Ogilvy Data Science Lab, Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology, and Journal of Social and Personal Relationships.
 
 
 # Contact Information
@@ -25,8 +25,9 @@ Cheng-Jun Wang is currently an assistant research fellow in the School of Journa
   - Supervised by Robert Ackland. (February-June, 2012).
 
 # Professional Experience
-- Director, Ogilvy Data Science Lab, Computational Communication Collaboratory, Nanjing University (January, 2015-Present).
-- Assistant Research Fellow, School of Journalism and Communication, Nanjing University (November, 2014-Present).
+- Associate Professor, School of Journalism and Communication, Nanjing University (November, 2014/09-2017/07).
+- Director, Ogilvy Data Science Lab, Computational Communication Collaboratory, Nanjing University (January, 2015/01-Present).
+- Assistant Research Fellow, School of Journalism and Communication, Nanjing University (November, 2014/09-2017/07).
 - Research Memember, Web Mining Lab, City University of Hong Kong (September, 2010-Present).
 - Internship, Knowledge Discovery Group, Tencent Company (March-September, 2014).
 
@@ -44,6 +45,7 @@ Cheng-Jun Wang is currently an assistant research fellow in the School of Journa
 4. Jiang, C.L*, Yang, M, **Wang, C.J.** (2016) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. 1-21. [doi: 10.1177 /0265407516640603](http://journals.sagepub.com/doi/full/10.1177/0265407516640603)
 5. **Wang, C.J.**, Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
 6. **Wang, C.J.** *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
+1. **王成军** (2017).计算社会科学视野下的新闻学研究：挑战与机遇. 新闻大学, (04): 26-32
 7. 杜骏飞, 曲飞帆, **王成军**（2016）[2015年中国新闻传播学论著评析](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDPREP&filename=YANJ201612007). 新闻与传播研究，12：108-119
 7. 王成军 (2016) [大数据计算与《纸牌屋》生成](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=SJXW201605024). 传媒评论. 5:63-66
 8. 王成军 (2016) [计算传播学的起源、概念与应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=BJXZ201603016). 编辑学刊,3:59-64.
@@ -101,7 +103,15 @@ I worked as a TA for the following courses:
 
 ## Professional affiliations
 
-I served as a reviewer for International Journal of Public Opinion Research (IJPOR), Computers in Human Behavior (CHB), Journal of the Association for Information Science and Technology (JASIST), Communication Methods and Measures (CMM), as well as the conference of International Communication Association (ICA). My professional affiliations include:
+I served as a reviewer for
+
+- International Journal of Public Opinion Research (IJPOR)
+- Computers in Human Behavior (CHB)
+- Journal of the Association for Information Science and Technology (JASIST)
+- Communication Methods and Measures (CMM)
+- The Annual Conference of International Communication Association (ICA).
+
+My professional affiliations include:
 
 1. Complex System Society (CSS)
 1. International Communication Association (ICA)
