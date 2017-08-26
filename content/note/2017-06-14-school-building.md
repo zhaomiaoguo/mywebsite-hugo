@@ -1,6 +1,10 @@
 +++
 title =  "紫金楼"
 date = "2017-06-14"
+[header]
+image = "headers/jaguar.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 +++
 
 紫金楼终于来了，现在正在封顶。

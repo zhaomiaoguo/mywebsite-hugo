@@ -1,7 +1,10 @@
----
-title: "我的女儿"
-date: "2017-03-11"
----
++++
+title = "我的女儿"
+date = "2017-03-11"
+[header]
+image = "headers/chimpanzees.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
++++
 
 ![](https://gallery.mailchimp.com/c007b6835f6475cf470f6e0ef/images/a4918492-d8c8-4a18-9e1f-93716e8dc526.gif)
 

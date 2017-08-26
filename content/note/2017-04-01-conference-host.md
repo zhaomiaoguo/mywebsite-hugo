@@ -1,6 +1,10 @@
 +++
 date = "2017-04-01"
 title = "计算传播学年会工作坊组办"
+[header]
+image = "headers/whale.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 +++
 
 # 2017年计算传播学年会暨工作坊

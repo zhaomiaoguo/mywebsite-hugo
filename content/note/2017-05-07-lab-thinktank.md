@@ -1,13 +1,10 @@
----
-layout: post
-title: "实验中心2017年相关事项"
-date: 2017-05-07
-comments: true
-categories:
-- 学术
-tags:
-- 实验室
----
++++
+date = "2017-05-07T12:00:00"
+title = "实验中心2017年相关事项"
+[header]
+image = "headers/jaguar.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
++++
 
 
 ## 国内外计算传播学方向发展的的观察

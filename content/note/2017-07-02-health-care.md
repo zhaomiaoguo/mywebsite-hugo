@@ -1,6 +1,10 @@
 +++
 title =  "学校医保"
 date = "2017-07-02"
+[header]
+image = "headers/Alosizes.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 +++
 
 
