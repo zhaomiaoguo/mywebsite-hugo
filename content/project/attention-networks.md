@@ -28,6 +28,6 @@ caption = "My caption :smile:"
 
 +++
 
-- [Tracing the Attention of Moving Citizens](/publication/tracing-attention/)
-- [The Collective Direction of Attention Diffusion](/publication/collective-direction/)
-- [The scaling of attention networks](/publication/scaling-networks)
+- [Tracing the Attention of Moving Citizens](/en/publication/tracing-attention/)
+- [The Collective Direction of Attention Diffusion](/en/publication/collective-direction/)
+- [The scaling of attention networks](/en/publication/scaling-networks)

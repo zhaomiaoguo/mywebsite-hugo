@@ -5,11 +5,6 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
-
+image = "headers/city.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
-
-{{% alert note %}}
-Live in the hard way.
-{{% /alert %}}

@@ -28,6 +28,6 @@ caption = ""
 
 +++
 
-1. [计算社会科学视野下的新闻学研究](/publication/computational-journalism/)
-2. [计算传播学的起源、概念和应用](/publication/cc-origin/)
-3. [计算传播学:作为计算社会科学的传播学](/publication/cc-intro/)
+1. [计算社会科学视野下的新闻学研究](/en/publication/computational-journalism/)
+2. [计算传播学的起源、概念和应用](/en/publication/cc-origin/)
+3. [计算传播学:作为计算社会科学的传播学](/en/publication/cc-intro/)

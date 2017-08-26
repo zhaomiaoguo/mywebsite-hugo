@@ -12,7 +12,7 @@ title = "The Collective Direction of Attention Diffusion"
 url_code = "#"
 url_dataset = "#"
 url_pdf = "http://www.nature.com/articles/srep34059.pdf"
-url_project = "project/attention-networks/"
+url_project = "en/project/attention-networks/"
 url_slides = "#"
 url_video = "#"
 

@@ -2,6 +2,10 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# delete public folder
+rm -rf public
+
+
 # Build the project.
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
@@ -10,6 +14,7 @@ cd ..
 
 cd chengjun.github.io
 
+# cp -av
 cp -av /Users/chengjun/github/mywebsite-hugo/public/* .
 
 # Add changes to git.

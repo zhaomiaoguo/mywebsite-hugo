@@ -13,7 +13,7 @@ title = "The scaling of attention networks"
 url_code = ""
 url_dataset = ""
 url_pdf = "http://dx.doi.org/10.1016/j.physa.2015.12.081"
-url_project = "project/attention-networks/"
+url_project = "en/project/attention-networks/"
 url_slides = ""
 url_video = ""
 

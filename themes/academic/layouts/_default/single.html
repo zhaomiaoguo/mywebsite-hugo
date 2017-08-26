@@ -12,28 +12,34 @@
   </div>
   {{end}}
 
+<!--
+  {{ if not .Params.notoc }}
+    <div id="toc" class="well col-md-3">
+    <h2 itemprop="name">Table of Content</h2>
+    {{ .TableOfContents }}
+    </div>
+
+  {{ end }}
+
+-->
+  {{ partial "sidebar-single.html" . }}
+
 
   <div class="article-container">
+
+
     <h1 itemprop="name">{{ .Title }}</h1>
     {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
 
-    {{ if not .Params.notoc }}
-      <div id="toc" class="well col-md-12">
-      <h2 itemprop="name">Table of Content</h2>
-      {{ .TableOfContents }}
-      </div>
-    {{ end }}
-    
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
-
-
 
   </div>
 
 
 </article>
+
 
 <div class="container">
   {{ partial "section_pager.html" . }}
@@ -42,6 +48,8 @@
 <div class="article-container">
   {{ partial "comments.html" . }}
 </div>
+
+
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}

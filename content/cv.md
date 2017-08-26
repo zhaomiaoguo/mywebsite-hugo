@@ -1,12 +1,14 @@
 +++
 date = "2017-02-19T00:00:00"
-title = ""
+title = "Cheng-Jun Wang"
 slug= "cv"
 disable_comments = true
-notoc = true
+[header]
+image = "headers/cheetah.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
-# Cheng-Jun Wang
+
 
 Cheng-Jun Wang is currently an associate professor in the School of Journalism and Communication, Nanjing University. He is also the director of Ogilvy Data Science Lab, Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology, and Journal of Social and Personal Relationships.
 
@@ -40,20 +42,20 @@ Cheng-Jun Wang is currently an associate professor in the School of Journalism a
  \* denotes corresponding author
 
 1. **Wang, C.J.**, Wu, L*, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. [doi:10.1038/srep34059](http://www.nature.com/articles/srep34059)
-2. Wu, L., **Wang, C.J.** * (2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. [doi: 10.1038/srep33103](http://www.nature.com/articles/srep33103)
-3. Chandra, Y.*, Jiang, C.L., **Wang, C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE, 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
-4. Jiang, C.L*, Yang, M, **Wang, C.J.** (2016) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. 1-21. [doi: 10.1177 /0265407516640603](http://journals.sagepub.com/doi/full/10.1177/0265407516640603)
-5. **Wang, C.J.**, Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
-6. **Wang, C.J.** *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
-1. **王成军** (2017).计算社会科学视野下的新闻学研究：挑战与机遇. 新闻大学, (04): 26-32
-7. 杜骏飞, 曲飞帆, **王成军**（2016）[2015年中国新闻传播学论著评析](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDPREP&filename=YANJ201612007). 新闻与传播研究，12：108-119
+1. Wu, L., **Wang, C.J.** * (2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. [doi: 10.1038/srep33103](http://www.nature.com/articles/srep33103)
+1. **Wang, C.J.**, Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
+1. Chandra, Y.*, Jiang, C.L., **Wang, C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE, 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
+1. Jiang, C.L*, Yang, M, **Wang, C.J.** (2017) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. 34(4): 425-445. [doi: 10.1177 /0265407516640603](http://journals.sagepub.com/doi/full/10.1177/0265407516640603)
+1. **Wang, C.J.** *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
+1. **王成军** (2017).[计算社会科学视野下的新闻学研究：挑战与机遇](http://kns.cnki.net/kcms/detail/detail.aspx?filename=XWDX201704006&dbcode=CJFQ). 新闻大学, 4:26-32
+7. 杜骏飞, 曲飞帆, **王成军**（2016）[2015年中国新闻传播学论著评析](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDPREP&filename=YANJ201612007). 新闻与传播研究，12:108-119
 7. 王成军 (2016) [大数据计算与《纸牌屋》生成](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=SJXW201605024). 传媒评论. 5:63-66
 8. 王成军 (2016) [计算传播学的起源、概念与应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=BJXZ201603016). 编辑学刊,3:59-64.
-9. 王成军（2015）[计算传播学:作为计算社会科学的传播学](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CFJD&dbname=CJFDLASN2015&filename=ZWCY201400013).中国网络传播研究,8:193-208.
-1. 王成军（2015）[“今日头条”的技术逻辑：网络爬虫+矩阵筛选](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=SJXW201510017).传媒评论,10:34-37.
+9. 王成军（2015）[计算传播学: 作为计算社会科学的传播学](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CFJD&dbname=CJFDLASN2015&filename=ZWCY201400013).中国网络传播研究,8:193-208.
+1. 王成军（2015）[“今日头条”的技术逻辑: 网络爬虫+矩阵筛选](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=SJXW201510017).传媒评论,10:34-37.
 1. 祝建华,彭泰权,梁海,**王成军**,秦洁,陈鹤鑫 (2014) [计算社会科学在新闻传播研究中的应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=KYXH201402001). 科研信息化技术与应用. 5 (2), 3-13
 1. **王成军**,刘德寰,杨旭 (2011) 从自我实现到群体互动——“人肉搜索”的动机、态度和行为研究,中国传媒报告，10(02):63-73.
-1. **王成军**,刘德寰 (2011) 移動的時尚：追求時尚與手機互聯網的使用，香港《传媒透视》, (07):12-15.
+1. **王成军**,刘德寰 (2011) 移動的時尚: 追求時尚與手機互聯網的使用，香港《传媒透视》, (07):12-15.
 1. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》, (09):12-13.
 
 # Conference Papers
@@ -75,7 +77,7 @@ Cheng-Jun Wang is currently an associate professor in the School of Journalism a
 1. Wang, C.J.(2011).The emergence of spiral of silence from individual behaviors: Agent-based modeling of the spiral of silence. Paper presented at The 64th Annual Conference of the World Association for Public Opinion Research (WAPOR), Amsterdam, The Netherlands, September 21-23.
 1. Wang, C.J.(2011).Surfing mobile Internet motivated by fashion attentiveness: An empirical study of China mobile Internet use. Paper presented at International Telecommunications Society Asia-Pacific Regional Conference (ITS), Taibei, Taiwan, June 26-29.
 
-# Seminar/Workshop Presentations
+# Seminars/Workshops
 1. Wang, C.J.(2014) Web Data Analysis. City University of Hong Kong, Department of Media and Communication. The Web Mining Workshop. 4.22-4.25
 1. Wang, C.J.(2013) The Way to Computational Communication (通往计算传播学之路). Department of Journalism and Communication, Shenzhen University. Jan 4th.
 1. Wang, C.J.(2012) Jumping over Network Threshold: News Diffusion on News Sharing Website. The seminar of IR and Friends. Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia National University, Canberra. May 14.
@@ -101,7 +103,7 @@ I worked as a TA for the following courses:
 1. COM2401 Fundamentals of Advertising. Semester A 2011-2012, City University of Hong Kong
 1. COM3413 Writing for Public Relations. Semester B 2010-2011, City University of Hong Kong
 
-## Professional affiliations
+# Professional affiliations
 
 I served as a reviewer for
 
@@ -118,7 +120,7 @@ My professional affiliations include:
 1. World Association of Public Opinion Research (WAPOR)
 1. International Telecommunications Society (ITS)
 
-# Awards and Honors
+# Awards/Honors
 1. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
 1. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
 1. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
@@ -130,12 +132,12 @@ My professional affiliations include:
 1. Outstanding Paper Award of People.com (Oct, 2009)
 1. Top Award of the Challenge Cup of Peking University (Jun, 2009)
 
-# Software
+# Softwares
 1. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
 1. [iching](https://pypi.python.org/pypi/iching/), a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).
 1. [networkdiffusion](https://github.com/chengjun/networkdiffusion), a R package which can help simulate and visualize the network diffusion.
 1. [scholarNetwork](https://pypi.python.org/pypi/scholarNetwork/), a Python package to crawl and visualize the coauthor network of Google Scholars.
 
-# Visualization
+# Visualizations
 1. [News Map of China](http://chengjun.github.io/newsmap/#edu/2011) using D3.js.
 1. [Global Terrorism](http://chengjun.github.io/datajournalism/vis/terrorism/) using googleVis.

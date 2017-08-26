@@ -87,7 +87,7 @@ defaultContentLanguageInSubdir = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = [hugo-academic.css]
+  custom_css = []
   custom_js  = []
 
   # Publication types.
