@@ -2,6 +2,10 @@
 title="团队合作中的任务分配"
 date = "2017-02-17"
 math = true
+[header]
+image = "headers/car.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
 +++
 
 最近一年多一直和令飞折腾`团队合作`的东西，也在思考如何进行团队合作。之前是把开会当成头脑风暴，后来发现太浪费时间，尤其是团队成员超过三个人之后（也要兼顾别人没有那么多时间），合作的成本开始上升，如何高效地进行合作就成了一个重要的问题。我们研究的主题也就是这个东西。
