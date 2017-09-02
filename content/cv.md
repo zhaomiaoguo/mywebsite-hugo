@@ -112,6 +112,8 @@ I served as a reviewer for
 - Journal of the Association for Information Science and Technology (JASIST)
 - Communication Methods and Measures (CMM)
 - The Annual Conference of International Communication Association (ICA).
+- 《新闻与传播研究》
+- 《新闻大学》
 
 My professional affiliations include:
 

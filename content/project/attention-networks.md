@@ -23,10 +23,11 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/carrot.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 +++
+
 
 - [Tracing the Attention of Moving Citizens](/en/publication/tracing-attention/)
 - [The Collective Direction of Attention Diffusion](/en/publication/collective-direction/)

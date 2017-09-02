@@ -1,12 +1,13 @@
----
-title: "记凯风-集智训练营"
-comments: true
-date: 2016-10-13
-categories:
-- 学习
-tags:
-- 集智俱乐部
----
++++
+date = "2016-10-13T12:00:00"
+draft = false
+categories = "学习"
+tags = ["集智俱乐部"]
+title = "记凯风-集智训练营"
+[header]
+image = "headers/dachs.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
++++
 
 ![缪斯](http://oaf2qt3yk.bkt.clouddn.com/ed6c9d46333416093c4d0fd0e9712dc4.png)
 

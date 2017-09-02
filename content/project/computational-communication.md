@@ -22,9 +22,10 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
+
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = ""
+image = "headers/house.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 +++
 

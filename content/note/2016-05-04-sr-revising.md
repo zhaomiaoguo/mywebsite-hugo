@@ -1,9 +1,9 @@
 +++
 title =  "语言是一道门槛"
 date = "2016-05-04"
-summary = """
-本文试图从传播的角度思考中国社交网站的发展，限于作者的认识，定然有很多不成熟的地方。但是作为一个开端，这是有益的尝试。
-"""
+[header]
+image = "headers/dragon2.svg"
+caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
 
