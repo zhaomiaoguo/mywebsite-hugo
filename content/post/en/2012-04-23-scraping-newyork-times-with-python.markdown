@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "Scraping New York Times & The Guardian using Python"
-comments: true
-categories:
-- python
-tags:
-- news media
 ---
 
 I have read the blog post about Scraping New York Times Articles with R. It’s great. I want to reproduce the work with python.

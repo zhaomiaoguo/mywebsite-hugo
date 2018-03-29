@@ -1,13 +1,11 @@
 +++
 # About/Biography widget.
-
-date = "2016-04-20T00:00:00"
-draft = false
-
 widget = "about"
+active = true
+date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
-weight = 1
+weight = 5
 
 # List your academic interests.
 [interests]
@@ -38,4 +36,4 @@ weight = 1
 
 # 王成军
 
-王成军，传播学博士。现为[南京大学新闻传播学院](http://jc.nju.edu.cn)副教授，奥美数据科学实验室主任，[计算传播学实验中心](https://computational-communication.com/collaboratory/)成员，兼任香港城市大学[互联网挖掘实验室](http://weblab.com.cityu.edu.hk)研究员。参与翻译《社会网络分析：方法与实践》(2013)、合著《社交网络上的计算传播学》(2015)。他的研究成果发表于SSCI和SCI索引的期刊，例如Scientific Reports、PloS ONE、Physica A、Cyberpsychology。2014年，王成军发起创建了[计算传播网](http://computational-communication.com)。更多信息见[英文页面](../en/)或他的[简历](../en/cv/)。
+王成军，传播学博士。现为[南京大学新闻传播学院](http://jc.nju.edu.cn)副教授，奥美数据科学实验室主任，[计算传播学实验中心](https://computational-communication.com/collaboratory/)副主任，兼任香港城市大学[互联网挖掘实验室](http://weblab.com.cityu.edu.hk)研究员。参与翻译《社会网络分析：方法与实践》(2013)、合著《社交网络上的计算传播学》(2015)。他的研究成果发表于SSCI和SCI索引的期刊，例如Scientific Reports、PloS ONE、Physica A、Cyberpsychology。2014年，王成军发起创建了[计算传播网](http://computational-communication.com)。更多信息见[英文页面](../en/)或他的[简历](../cv/)。

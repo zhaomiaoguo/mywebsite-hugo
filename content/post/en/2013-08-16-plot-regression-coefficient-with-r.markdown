@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "Plot regression coefficient with R"
-comments: true
-categories: R
 ---
 
 

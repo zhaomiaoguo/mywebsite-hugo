@@ -58,7 +58,10 @@ Cheng-Jun Wang is currently an associate professor in the School of Journalism a
 1. **王成军**,刘德寰 (2011) 移動的時尚: 追求時尚與手機互聯網的使用，香港《传媒透视》, (07):12-15.
 1. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》, (09):12-13.
 
+
 # Conference Papers
+1. Zhi-Cong Chen, Lingfei Wu, Naipeng Chao, **Cheng-Jun Wang** * (2018) The Poor Read for Entertainment and the Rich Read for Education: Poverty, Fragmentation, and Knowledge Homogeneity. Poster to be presented at The 4th Annual International Conference on Computational Social Science (ic2s2), July 12–15, 2018. Evanston, Illinois, United States.
+1. Hui-Min Xu, Zhi-Cong Chen, **Cheng-Jun Wang** * (2018) Social Classes Shapes Our Trajectories in Both Online and Offline Space. Paper To be presented at The 4th Annual International Conference on Computational Social Science (ic2s2), July 12–15, 2018. Evanston, Illinois, United States.
 1. Wang, C.J. (2017) [networkdiffusion](https://github.com/chengjun/networkdiffusion): Simulating and Visualizing Network Diffusion Using R. The 10th China R Conference. Beijing, May 20-21. [Slides](http://chengjunwang.com/network-diffusion/#/).
 1. Wang, C.J. Zhang, X. (2017) [Analyzing Mobile Phone Data With Network Science](http://tinyurl.com/jlac4lw). The 67th Annual Conference of International Communication Association (ICA), San Diego, USA, May 27, 2017.
 1. Wang, C.J. (2015). Information diffusion on Microblogs: Testing the threshold hypothesis of interpersonal effects. Conference on Complex System (CCS'15), Tempe, Arizona, USA. Sep 28-Oct 2.

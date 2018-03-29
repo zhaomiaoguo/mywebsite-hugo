@@ -1,12 +1,5 @@
 ---
-layout: post
 title: "Simulating network diffusion with R"
-comments: true
-categories:
-- network
-tags:
-- information diffusion
-- R
 ---
 
 

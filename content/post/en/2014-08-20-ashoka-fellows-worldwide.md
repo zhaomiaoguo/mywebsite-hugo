@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "Social Entrepreneurs Worldwide: Visualization using WebGL Globe"
-comments: true
-categories:
-- visualization
-tags:
-- javascript
 ---
 
 

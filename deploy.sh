@@ -5,7 +5,6 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # delete public folder
 rm -rf public
 
-
 # Build the project.
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
@@ -14,8 +13,16 @@ cd ..
 
 cd chengjun.github.io
 
+# ssh-add ~/.ssh/id_rsa
+# git remote set-url origin git@github.com:chengjun/chengjun.github.io.git
+
+# rm -rf en
+# rm -rf zh
+# rm -rf note
+# rm -rf post
+
 # cp -av
-cp -av /Users/chengjun/github/mywebsite-hugo/public/* .
+cp -av /Users/datalab/github/mywebsite-hugo/public/* .
 
 # Add changes to git.
 git add -A

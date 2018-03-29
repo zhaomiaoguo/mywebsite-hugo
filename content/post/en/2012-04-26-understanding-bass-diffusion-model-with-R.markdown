@@ -1,13 +1,5 @@
 ---
-layout: post
 title: "Understanding Bass diffusion model with R"
-comments: true
-categories:
-- R
-tags:
-- diffusion
-- Bass Model
-- Mathematica
 ---
 
 

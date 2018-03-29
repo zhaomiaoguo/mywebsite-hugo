@@ -1,12 +1,5 @@
 ---
-layout: post
 title: "Subscribe to This Blog by Email"
-comments: true
-categories:
-- blog
-tags:
-- subscribe
-- feedburner
 ---
 
 

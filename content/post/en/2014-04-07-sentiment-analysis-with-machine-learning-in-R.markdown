@@ -1,14 +1,5 @@
 ---
-layout: post
 title: "Sentiment analysis with machine learning in R"
-comments: true
-categories:
-- R
-tags:
-- sentiment analysis
-- machine learning
-- naive bayes
-- text mining
 ---
 
 In [an earlier post](http://chengjun.github.io/en/2012/03/sentiment-analysi-with-python/), I tried to reproduce the sentiment analysis using machine learning in Python. Here, I will introduce how to do it in the framework of R.

@@ -1,6 +1,6 @@
 +++
 highlight = true
-authors = ["Chandra, Y.", "Jiang, C.L.", "**Wang, C.J.**"]
+authors = ["Yanto Chandra", "L. Crystal Jiang", "**Cheng-Jun Wang**"]
 title = "Mining Social Entrepreneurship Strategies Using Topic Modeling"
 abstract_short = ""
 publication_short = ""

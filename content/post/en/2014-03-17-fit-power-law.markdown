@@ -1,12 +1,5 @@
 ---
-layout: post
 title: "Fitting rank order distribution with R"
-comments: true
-categories:
-- R
-tags:
-- power law
-- distribution
 ---
 
 The long-tail distribution can be quantified in primarily [three ways, see Newman 's paper here](http://arxiv.org/pdf/cond-mat/0412004.pdf?origin=publication_detail):

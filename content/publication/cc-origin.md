@@ -14,7 +14,7 @@ image_preview = ""
 abstract_short = ""
 math = false
 url_pdf = "http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=BJXZ201603016"
-publication = "编辑学刊,3:59-64."
+publication = "编辑学刊,3:59-64"
 authors = ["王成军"]
 date = "2016-05-15T11:53:36+08:00"
 

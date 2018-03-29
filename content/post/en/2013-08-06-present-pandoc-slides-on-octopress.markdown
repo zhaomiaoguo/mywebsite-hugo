@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "Hosting pandoc slides on Octopress"
-comments: true
-categories: octopress
 ---
 
 ##

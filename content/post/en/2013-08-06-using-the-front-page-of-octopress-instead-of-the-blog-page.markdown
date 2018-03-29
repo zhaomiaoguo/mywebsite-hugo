@@ -1,10 +1,5 @@
 ---
-layout: post
 title: "Using the front-page of Octopress instead of the blog page"
-categories: octopress
-tags:
-- Landing page
-- Navigation
 ---
 
 ## Using a Landing Page rather than the Blog Page

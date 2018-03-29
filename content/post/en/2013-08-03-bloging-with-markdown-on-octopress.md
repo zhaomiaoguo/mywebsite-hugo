@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "Blogging with markdown on Octopress"
-comments: true
-categories: octopress
 ---
 
 ### Set up Octopress

@@ -8,6 +8,26 @@ image = "headers/amargasaurus.svg"
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
+<!--more-->
+
+
+# 南京住房公积金管理中心
+
+南京市玄武区太平北路51号
+
+http://gjj.nanjing.gov.cn/wsbsdt/
+
+- 公积金账号：801017435215
+- 补贴账号：804001045006
+
+使用建设银行的银行卡，领卡：身份证
+
+20100466817 南京大学 网点号0001
+
+通过当地025-12329热线输入身份证号查询。
+
+
+
 
 
 # 中山陵景区

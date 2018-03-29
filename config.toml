@@ -1,44 +1,97 @@
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://chengjunwang.com/"
-title = "Academic"
+title = "Cheng-Jun Wang"
 copyright = "&copy; 2016 Cheng-Jun Wang"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 20
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "ChengjunWang"
+disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/readfiles/bfconfig/
 [blackfriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, or `coffee`.
+  color_theme = "default"
+
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  font = "classic"
+
+  # Your details
   name = "Cheng-Jun Wang"
   role = "Associate Professor"
-  organization = "Nanjing University"
-  organization_url = "http://nju.edu.cn"
+
+  # Organizations/Affiliations.
+  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+  organizations = [ { name = "Nanjing University", url = "https://nju.edu.cn" } ]
+
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "chengjun.jpg"
+  #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "wangchengjun@nju.edu.cn"
   address = "Room A307, Feiyimin Building, 22 Gulou District, Nanjing University, Jiangsu, 210093, China"
   address_cn = "中国江苏省南京市鼓楼区22号费彝民楼A307，邮编210093"
-  office_hours_cn = "每周五下午14：00-17：00或者邮件预约"
-  office_hours = "Friday 14:00 to 17:00 or email for appointment"
+  office_hours_cn = "每周二下午14：00-17：00或者邮件预约"
+  office_hours = "Tuesday 14:00 to 17:00 or email for appointment"
   phone = "+86 025-83686110"
-  # skype = "echo123"
-  # telegram = ""
+  #skype = "echo123"
+  #telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
 
-  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  # Discussion link (e.g. link to a forum, mailing list, or chat).
+  #   Uncomment line below to use.
+  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+
+  # Diplay a logo in navigation bar rather than title (optional).
+  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+  logo = ""
+
+  # Enable Google Maps by entering your API key, latitude, and longitude.
+  #   Get your API key: https://developers.google.com/maps/documentation/javascript/get-api-key
+  #   Get your coords: Right-click place on Google Maps. Select 'What's here?'. At the bottom is a card with the coords.
+  #   Disable Google Maps by clearing all three options to "".
+  # google_maps_api_key = ""
+  # latitude = "37.4275"
+  # longitude = "-122.1697"
+
+  # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Mon, Jan 2, 2006"
+  date_format = "2006-01-02"
+  #   Examples: "3:04 pm" or "15:04"
+  time_format = "3:04 PM"
+
+  # Show estimated reading time for posts?
+  reading_time = true
+
+  # Display comment count? Requires commenting to be enabled.
+  comment_count = true
+
+  # Display section pager for posts?
+  section_pager = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -66,21 +119,14 @@ defaultContentLanguageInSubdir = true
   #
   #     Example: highlight_style = "github-gist"
   #
-  #   highlight_version
-  #     Choose the version of highlight.js you want. Setting this
-  #     option in a page's preamble has no effect.
-  #
-  #     Example: highlight_version = "9.9.0"
-  #
-  #   For the list of supported languages, styles, and versions, see:
+  #   For the list of supported languages and styles, see:
   #   https://cdnjs.com/libraries/highlight.js/
   #
   #   For more info on the highlighting options, see:
-  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
+  #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = []
   # highlight_style = "github"
-  # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -106,6 +152,29 @@ defaultContentLanguageInSubdir = true
     'Book chapter'  # 6
   ]
 
+  # Configuration of talk pages.
+  [params.talks]
+    # Show talk time?
+    time = true
+
+  # Configuration of publication pages.
+  [params.publications]
+    # Date format (refer to Go's date format: http://fuckinggodateformat.com )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "2006-01-02"
+
+  # Configuration of project pages.
+  [params.projects]
+    # List publications and talks related to the project?
+    list_children = true
+
+    # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    publication_format = 0
+
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
@@ -123,11 +192,6 @@ defaultContentLanguageInSubdir = true
   #   google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
-
-  # [[params.social]]
-  #   icon = "envelope"
-  #   icon_pack = "fa"
-  #   link = "mailto:wangchengjun@nju.edu.cn"
 
   [[params.social]]
     icon = "twitter"
@@ -147,7 +211,7 @@ defaultContentLanguageInSubdir = true
   [[params.social]]
     icon = "child"
     icon_pack = "fa"
-    link = "/en/note/"
+    link = "/note/"
 
 
   [[params.social]]
@@ -172,83 +236,105 @@ defaultContentLanguageInSubdir = true
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[menu.main]]
-  name = "Home"
-  url = "/en/#about"
-  weight = 1
+  [[menu.main]]
+    name = "Home"
+    url = "/#about"
+    weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "/en/#publications_selected"
-  weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/#publications_selected"
+    weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "/en/#projects"
-  weight = 3
+  [[menu.main]]
+    name = "Projects"
+    url = "/#projects"
+    weight = 3
 
-[[menu.main]]
-  name = "News"
-  url = "/en/#posts"
-  weight = 4
+  [[menu.main]]
+    name = "News"
+    url = "/#posts"
+    weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "/en/#teaching"
-  weight = 5
+  [[menu.main]]
+    name = "Teaching"
+    url = "/#teaching"
+    weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "/en/#contact"
-  weight = 6
+  [[menu.main]]
+    name = "Contact"
+    url = "/#contact"
+    weight = 6
 
-[[menu.main]]
-  name = "中文"
-  url = "../zh"
-  weight = 7
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Chinese Publication',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
 
-[[languages.zh.menu.main]]
-  name = "English"
-  url = "../en"
-  weight = 7
+  [[languages.zh.menu.main]]
+    name = "关于"
+    url = "/zh/#about"
+    weight = 1
 
-[[languages.zh.menu.main]]
-  name = "关于"
-  url = "/zh/#about.zh"
-  weight = 1
+  [[languages.zh.menu.main]]
+    name = "新闻"
+    url = "/zh/#posts"
+    weight = 2
 
-[[languages.zh.menu.main]]
-  name = "新闻"
-  url = "/zh/#posts.zh"
-  weight = 2
+  [[languages.zh.menu.main]]
+    name = "教学"
+    url = "/zh/#teaching"
+    weight = 3
 
-[[languages.zh.menu.main]]
-  name = "教学"
-  url = "/zh/#teaching.zh"
-  weight = 3
+  [[languages.zh.menu.main]]
+    name = "项目"
+    url = "/zh/#projects"
+    weight = 4
 
-[[languages.zh.menu.main]]
-  name = "项目"
-  url = "/zh/#projects.zh"
-  weight = 4
+  [[languages.zh.menu.main]]
+    name = "联系"
+    url = "/zh/#contact"
+    weight = 5
 
-[[languages.zh.menu.main]]
-  name = "联系"
-  url = "/zh/#contact.zh"
-  weight = 5
+  # Taxonomies.
+  [taxonomies]
+    tag = "tags"
+    category = "categories"
+    publication_type = "publication_types"
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+  # Languages
+  #   Create a [languages.X] block for each language you want, where X is the language ID.
 
-# Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
+  # Configure the English version of the website.
+  [languages.en]
+    languageCode = "en-us"
 
-# Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+    # Publication types.
+    #   Used to categorize publications.
+    #   The index of the publication type in the list is used as its unique numerical identifier.
+    #   The numeric ID is used in a publication's frontmatter to categorize it.
+    #   The language can be edited below.
+    #   For multi-lingual sites, copy this block to each language section at the end of this file.
+    publication_types = [
+      'Uncategorized',  # 0
+      'Conference',  # 1
+      'Journal',  # 2
+      'Work in progress',  # 3
+      'Chinese Publication',  # 4
+      'Book',  # 5
+      'Book chapter'  # 6
+    ]
 
-[languages.zh]
-  languageCode = "zh-cn"
+  [languages.zh]
+    languageCode = "zh-cn"

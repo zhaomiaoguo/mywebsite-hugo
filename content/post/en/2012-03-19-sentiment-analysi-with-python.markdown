@@ -1,12 +1,5 @@
 ---
-layout: post
 title: "Sentiment analysis with Python"
-comments: true
-categories:
-- python
-tags:
-- sentiment analysis
-- nltk
 ---
 
 Learning To Do Sentiment Analysis Using Python & NLTK

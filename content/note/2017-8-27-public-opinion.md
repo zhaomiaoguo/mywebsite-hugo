@@ -3,12 +3,15 @@ date = "2017-08-27T12:00:00"
 draft = false
 title = "网络舆论生态治理研究"
 math = false
+tags = [""]
 [header]
-image = "headers/bluewhale.svg"
+image = "headers/forklift.svg"
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
 各位老师，大家晚上好，很高兴有机会和大家讨论一下网络舆论生态治理研究的问题。
+
+<!--more-->
 
 习近平指出，"没有网络安全就没有国家安全，没有信息化就没有现代化"。
 

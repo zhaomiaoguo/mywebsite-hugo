@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "Learning basic epidemic models with Python"
-comments: true
-categories:
-- python
-tags:
-- epidemic models
 ---
 
 

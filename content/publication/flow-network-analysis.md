@@ -10,10 +10,10 @@ publication_types = ["3"]
 authors = ["Cheng-Jun Wang"]
 date = "2017-06-15T22:20:56+08:00"
 url_video = ""
-url_project = "en/project/attention-networks/"
+url_project = "/project/attention-networks/"
 title = "Leveraging the Flow of Collective Attention for Computational Communication Research"
 publication_short = ""
-publication = ""
+publication = "Work in progress"
 image_preview = ""
 highlight = true
 selected = false
@@ -23,5 +23,8 @@ selected = false
   image = ""
 
 +++
+
+- The Panel of Social Networks and Computational Communication, The XXXVII Sunbelt Social Networks Conference of the International Network for Social Network Analysis(INSNA), May 30th – June 4th, 2017 Beijing, China.
+- 网络与数据科学前沿论坛，2017年11月11-12日，西北工业大学，国际会议中心第二会议室，西安，中国
 
 In preparing.

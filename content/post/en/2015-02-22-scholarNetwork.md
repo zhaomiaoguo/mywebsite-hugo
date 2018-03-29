@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "scholarNetwork: Visualizing Google Scholar Network"
-comments: true
-categories:
-- python
-tags:
-- package
 ---
 
 

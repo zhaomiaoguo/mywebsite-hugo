@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "Generating networks with igraph"
-comments: true
-categories: network
 ---
 
 We know that the most simple network is the regular network, such as the ring network. If all the edges in a network are generated randomly, we can get a random graph or Erdos-Renyi network (ER network).

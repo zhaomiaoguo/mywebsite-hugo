@@ -1,12 +1,5 @@
 ---
-layout: post
 title: "Scraping tweets using Twitter stream API"
-comments: true
-categories:
-- python
-tags:
-- API
-- tweets
 ---
 
 

@@ -5,6 +5,7 @@ date = "2016-04-27"
 # Project title.
 title = "Attention Networks"
 
+
 # Project summary to display on homepage.
 summary = "This project aims to study the attention dynamics using flow network analysis."
 
@@ -29,6 +30,6 @@ caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic
 +++
 
 
-- [Tracing the Attention of Moving Citizens](/en/publication/tracing-attention/)
-- [The Collective Direction of Attention Diffusion](/en/publication/collective-direction/)
-- [The scaling of attention networks](/en/publication/scaling-networks)
+- [Tracing the Attention of Moving Citizens](/publication/tracing-attention/)
+- [The Collective Direction of Attention Diffusion](/publication/collective-direction/)
+- [The scaling of attention networks](/publication/scaling-networks)

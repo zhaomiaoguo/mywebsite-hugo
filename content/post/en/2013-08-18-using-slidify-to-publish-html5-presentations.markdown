@@ -1,8 +1,5 @@
 ---
-layout: post
 title: "Using slidify to publish HTML5 presentations"
-comments: true
-categories: R Pandoc Markdown Reveal.js
 ---
 
 I am inspired to use markdown to make HTML5 slides, However the specification is too hard. Actually, I don't know how to make it less ugly, especilly for the first page of the slides.

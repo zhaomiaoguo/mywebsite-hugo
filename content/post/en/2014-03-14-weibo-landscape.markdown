@@ -1,12 +1,5 @@
 ---
-layout: post
 title: "The Rich-club on Sina Weibo"
-comments: true
-categories:
-- Data
-tags:
-- weibo
-- diffusion
 ---
 
 

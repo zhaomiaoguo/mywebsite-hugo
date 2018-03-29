@@ -8,7 +8,7 @@ image_preview = ""
 abstract = "人类社会已经进入了计算社会科学时代，新的新闻生产方式和研究范式的确立给传统新闻学研究带来了挑战和机遇。计算社会科学从数据、计算方法、网络科学理论等多个层面丰富了新闻学研究。本文尝试梳理计算社会社会科学的发展脉络，总结代表性成果，分析其对新闻学研究的影响。本文最后讨论了计算传播学，强调了从研究问题、数据、模式、机制和基本原理的角度来理解新闻学研究。"
 highlight = true
 publication = "新闻大学，2017（4）26-32"
-url_project = "/en/project/computational-communication"
+url_project = "/project/computational-communication"
 url_code = ""
 date = "2017-08-15T11:33:49+08:00"
 url_dataset = ""
@@ -24,8 +24,7 @@ authors = ["王成军"]
 
 +++
 
-**引用**: 王成军(2017).计算社会科学视野下的新闻学研究：挑战与机遇. 新闻大学,(04):26-32
-
+**引用**: 王成军(2017).计算社会科学视野下的新闻学研究：挑战与机遇. 新闻大学,(04):26-32 （入选人大复印资料新闻与传播2017年第10期）
 
 ### Journalism Studies in the Perspective of Computational Social Science: Challenges and Opportunities
 

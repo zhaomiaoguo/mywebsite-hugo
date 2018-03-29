@@ -1,12 +1,5 @@
 ---
-layout: post
 title: "Scraping data from Sina Weibo using Python"
-comments: true
-categories:
-- python
-tags:
-- weibo
-- diffusion
 ---
 
 ![](http://weblab.com.cityu.edu.hk/blog/chengjun/files/2012/09/33.png)

@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "The Craft of Writing"
-comments: true
-categories:
-- writing
-tags:
-- Howard S. Becker
 ---
 
 ![](http://images.betterworldbooks.com/022/Writing-for-Social-Scientists-How-to-Start-and-Finish-Your-Thesis-Book-Becker-Howard-Saul-9780226041322.jpg)

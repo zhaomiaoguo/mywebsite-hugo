@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "Visualizing dynamic changes with googleVis"
-comments: true
-categories:
-- R
-tags:
-- googleVis
 ---
 
 GoogleVis could be used to visualize the dynamic change of social pattern. Here I will test some examples.

@@ -1,11 +1,5 @@
 ---
-layout: post
 title: "My vision statement"
-comments: true
-categories:
-- Vision
-tags:
-- statement
 ---
 
 My ideal career path is to work in a research university where I can continue my on-going study of opinion dynamics, and to share my understanding of computational communication (e.g. human online behavior, network science, and data journalism).

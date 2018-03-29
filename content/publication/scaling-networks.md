@@ -5,15 +5,18 @@ authors = ["**Cheng-Jun Wang**", "Lingfei Wu"]
 date = "2015-12-31"
 image_preview = ""
 math = true
+
 publication_types = ["2"]
-publication = "In *Physica A*: Statistical Mechanics and its Applications."
+publication = "*Physica A*: Statistical Mechanics and its Applications. 448:196–204, doi: 10.1016/j.physa.2015.12.081"
 publication_short = ""
+
 selected = false
+
 title = "The scaling of attention networks"
 url_code = ""
 url_dataset = ""
 url_pdf = "http://dx.doi.org/10.1016/j.physa.2015.12.081"
-url_project = "en/project/attention-networks/"
+url_project = "/project/attention-networks/"
 url_slides = ""
 url_video = ""
 
