@@ -18,4 +18,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push -f origin master
+git push origin master
+
+# Force Push
+#git push -f origin master
