@@ -6,13 +6,6 @@
   <div class="col-xs-12 col-md-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
-    <p class="view-all">
-      <a href="{{ "/publication/" | relLangURL }}">
-      <!--      <a href="{{ "/publication/" | relLangURL }}">-->
-        {{ i18n "more_publications" | markdownify }}
-        <i class="fa fa-angle-double-right"></i>
-      </a>
-    </p>
   </div>
   <div class="col-xs-12 col-md-8">
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}

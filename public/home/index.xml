@@ -1,109 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/home/</link>
-    <description>Recent content in Homes on Cheng-Jun Wang</description>
+    <title>Homes on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/home/</link>
+    <description>Recent content in Homes on INSPIRE Lab @ UCF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Cheng-Jun Wang</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://chengjunwang.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhaomiaoguo.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://chengjunwang.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://zhaomiaoguo.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/about/</guid>
-      <description>About Cheng-Jun Wang is currently an associate professor in the School of Journalism and Communication, Nanjing University. He is the director of Ogilvy Data Science Lab, the associate director of Computational Communication Collaboratory, and a research member of Web Mining Lab. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology. In 2014, He founded the website of computational communication.</description>
+      <guid>https://zhaomiaoguo.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaomiaoguo.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/home/about/</guid>
+      <description>Principal Investigator Dr. Zhaomiao (Walter) Guo leads INfrastructure Systems with Proactiveness, Intelligence, and REsilience (INSPIRE) Lab at the University of Central Florida. Dr.Guo is currently an Assistant Professor in the Department of Civil, Environmental, and Construction Engineering and affiliates with Resilient, Intelligent and Sustainable Energy Systems (RISES) Cluster. Dr. Guo’s research centers around modeling and computational strategies for intelligent and resilient critical infrastructure systems, with applications in transportation and energy systems.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://chengjunwang.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <link>https://zhaomiaoguo.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/publications_selected/</guid>
+      <guid>https://zhaomiaoguo.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://chengjunwang.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <title></title>
+      <link>https://zhaomiaoguo.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/publications/</guid>
+      <guid>https://zhaomiaoguo.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://chengjunwang.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://zhaomiaoguo.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/talks/</guid>
+      <guid>https://zhaomiaoguo.github.io/home/publications/</guid>
+      <description>Asterisks indicate an author is/was a graduate (*) or undergraduate (**) researcher in INSPIRE Lab.</description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://zhaomiaoguo.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://chengjunwang.com/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://zhaomiaoguo.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/projects/</guid>
-      <description> Bringing Back the Reference Group: Agent-based Modeling of Spiral of Silence. National postdoc grant (￥50000, 2015M571722) The Network Threshold of the Formation and Diffusion of Public Opinion. National Social Science Fundation for Young Scholars(￥200&amp;rsquo;000, 15CXW017)  </description>
+      <guid>https://zhaomiaoguo.github.io/home/projects/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://chengjunwang.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://zhaomiaoguo.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/posts/</guid>
+      <guid>https://zhaomiaoguo.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://chengjunwang.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://zhaomiaoguo.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/teaching/</guid>
-      <description>I am teaching the following courses:
- FDU Graduate Course Introduction to Computational Communication See this GitHub repository for materials of python programming, data collection, basic statistics and machine learning, basic text mining, recommendation system, and communication networks.
-  NJU Master Course Big Data Mining and Analysis  2018 Spring  NJU Undergraduate Course Data Journalism  2017 Autumn 2016 Autumn 2015 Autumn  NJU Undergraduate Course Programming Basics For Computational Communication  2018 Spring 2017 Spring   </description>
+      <guid>https://zhaomiaoguo.github.io/home/teaching/</guid>
+      <description> University of Central Florida  TTE 3810: Highway Engineering (Fall 2018)  University of California Davis  ECI 16: Spatial Data Analysisi (Spring 2016) ECI 253: Dynamic Programming and Multi-stage Decision Processes (Spring 2015) ECI 153: Introduction to Operations Research (Fall 2014)  </description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://zhaomiaoguo.github.io/home/people/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab News</title>
+      <link>https://zhaomiaoguo.github.io/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/home/news/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://chengjunwang.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <link>https://zhaomiaoguo.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/tags/</guid>
+      <guid>https://zhaomiaoguo.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://zhaomiaoguo.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://chengjunwang.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://zhaomiaoguo.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/home/contact/</guid>
+      <guid>https://zhaomiaoguo.github.io/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://chengjunwang.com/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/home/hero/</guid>
-      <description> Quotations  Before God we are all equally wise and equally foolish. Do not worry about your difficulties in Mathematics. I can assure you mine are still greater. &amp;ndash; Albert Einstein 🚀
-We know that people often desire something but do not really want it. Don’t be afraid to really want what you desire. &amp;ndash; Slavoj Žižek speaks at Occupy Wall Street 🚀
- </description>
     </item>
     
   </channel>

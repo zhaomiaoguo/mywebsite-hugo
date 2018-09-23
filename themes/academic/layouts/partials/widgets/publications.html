@@ -9,10 +9,9 @@
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     {{ if gt $pubs_len $page.Params.count }}
     <p class="view-all">
-      <a href="{{ "/publication/#2" | relLangURL }}">
-      <!--      <a href="{{ "/publication/" | relLangURL }}">-->
-        {{ i18n "ssci_publications" | markdownify }}
-        <i class="fa fa-angle-double-right"></i>
+      <a href="{{ ($.Site.GetPage "section" "publication").Permalink }}">
+        {{ i18n "more_publications" | markdownify }}
+        <i class="fas fa-angle-double-right"></i>
       </a>
     </p>
     {{ end }}
@@ -24,6 +23,10 @@
       {{ $.Scratch.Set "recent_pubs" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice $page.Params.publication_type)) }}
     {{ else }}
       {{ $.Scratch.Set "recent_pubs" (where $.Site.RegularPages "Type" "publication") }}
+    {{ end }}
+
+    {{ if $page.Params.exclude_selected }}
+      {{ $.Scratch.Set "recent_pubs" ( ($.Scratch.Get "recent_pubs") | intersect (where (where $.Site.RegularPages "Type" "publication") ".Params.selected" "!=" true) ) }}
     {{ end }}
 
     {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}

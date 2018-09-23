@@ -144,9 +144,8 @@
       let url = $(this).val();
       if (url.substr(0, 9) == '.pubtype-') {
         window.location.hash = url.substr(9);
-
       } else {
-        window.location.hash = '#';
+        window.location.hash = '';
       }
     }
   });
@@ -170,45 +169,69 @@
     $grid_pubs.isotope({ filter: filterValues });
 
     // Set selected option.
-    $('.pubtype-select').val(urlHash);
+    $('.pubtype-select').val(filterValue);
   }
 
   /* ---------------------------------------------------------------------------
-  * Google maps.
+  * Google Maps or OpenStreetMap via Leaflet.
   * --------------------------------------------------------------------------- */
 
   function initMap () {
     if ($('#map').length) {
-      let lat = $('#gmap-lat').val();
-      let lng = $('#gmap-lng').val();
-      let address = $('#gmap-dir').val();
+      let map_provider = $('#map-provider').val();
+      let lat = $('#map-lat').val();
+      let lng = $('#map-lng').val();
+      let zoom = parseInt($('#map-zoom').val());
+      let address = $('#map-dir').val();
+      let api_key = $('#map-api-key').val();
+      
+      if ( map_provider == 1 ) {
+        let map = new GMaps({
+          div: '#map',
+          lat: lat,
+          lng: lng,
+          zoom: zoom,
+          zoomControl: true,
+          zoomControlOpt: {
+            style: 'SMALL',
+            position: 'TOP_LEFT'
+          },
+          panControl: false,
+          streetViewControl: false,
+          mapTypeControl: false,
+          overviewMapControl: false,
+          scrollwheel: true,
+          draggable: true
+        });
 
-      let map = new GMaps({
-        div: '#map',
-        lat: lat,
-        lng: lng,
-        zoomControl: true,
-        zoomControlOpt: {
-          style: 'SMALL',
-          position: 'TOP_LEFT'
-        },
-        panControl: false,
-        streetViewControl: false,
-        mapTypeControl: false,
-        overviewMapControl: false,
-        scrollwheel: true,
-        draggable: true
-      });
-
-      map.addMarker({
-        lat: lat,
-        lng: lng,
-        click: function (e) {
-          let url = 'https://www.google.com/maps/place/' + encodeURIComponent(address) + '/@' + lat + ',' + lng +'/';
-          window.open(url, '_blank')
-        },
-        title: address
-      })
+        map.addMarker({
+          lat: lat,
+          lng: lng,
+          click: function (e) {
+            let url = 'https://www.google.com/maps/place/' + encodeURIComponent(address) + '/@' + lat + ',' + lng +'/';
+            window.open(url, '_blank')
+          },
+          title: address
+        })
+      } else {
+          let map = new L.map('map').setView([lat, lng], zoom);
+          if ( map_provider == 3 && api_key.length ) {
+            L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+              attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+              maxZoom: 18,
+              id: 'mapbox.streets',
+              accessToken: api_key
+            }).addTo(map);
+          } else {
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+              maxZoom: 19,
+              attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            }).addTo(map);
+          }
+          let marker = L.marker([lat, lng]).addTo(map);
+          let url = lat + ',' + lng +'#map='+ zoom +'/'+ lat +'/'+ lng +'&layers=N';
+          marker.bindPopup(address + '<p><a href="https://www.openstreetmap.org/directions?engine=osrm_car&route='+ url +'">Routing via OpenStreetMap</a></p>');
+      }
     }
   }
 
@@ -267,8 +290,8 @@
     // Enable publication filter for publication index page.
     if ($('.pub-filters-select')) {
       filter_publications();
-       //Useful for changing hash manually (e.g. in development):
-      //  window.addEventListener('hashchange', filter_publications, false);
+      // Useful for changing hash manually (e.g. in development):
+      // window.addEventListener('hashchange', filter_publications, false);
     }
 
     // Load citation modal on 'Cite' click.
