@@ -9,7 +9,7 @@ title = "Kyle Cooke"
 summary = "Undergraduate Researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Kyle_Cooke.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

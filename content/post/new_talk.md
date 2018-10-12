@@ -1,5 +1,5 @@
 +++
-title = "I will present at INFORMs 2018 at Phoenix on Using ADMM to Sovle Charging Infrastructure Equilibrium Problem"
+title = "Dr. Guo will present his work, collaborating with Sandia National Labs and UC Davis, on evolvement of charging infrastructure in a competitive and stochastic market at INFORMs 2018 in Phoenix."
 date = 2018-09-09T17:54:34-04:00
 draft = false
 

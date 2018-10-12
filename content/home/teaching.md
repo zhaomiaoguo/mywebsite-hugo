@@ -20,6 +20,6 @@ weight = 40
 
 ### University of California Davis
 
-* ECI 16: Spatial Data Analysisi (Spring 2016)
+* ECI 16: Spatial Data Analysis (Spring 2016)
 * ECI 253: Dynamic Programming and Multi-stage Decision Processes (Spring 2015)
 * ECI 153: Introduction to Operations Research (Fall 2014)

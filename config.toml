@@ -67,7 +67,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "guo.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "guo@ucf.edu"
-  address = "4353 Scorpius Street (Research 1 150J), Orlando, Florida 32816-0120"
+  address = "4353 Scorpius Street (Research 1, 150J), Orlando, Florida 32816-0120"
   phone = "407-823-6215"
   skype = ""
   telegram = ""
@@ -98,7 +98,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 2
+  map = 1
   map_api_key = ""
   latitude = "28.601923"
   longitude = "-81.197466"
