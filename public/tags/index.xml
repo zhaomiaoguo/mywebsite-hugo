@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Demo</title>
-      <link>https://zhaomiaoguo.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Undergraduate</title>
@@ -27,6 +17,24 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/undergraduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agent-base-modeling</title>
+      <link>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big-data</title>
+      <link>https://zhaomiaoguo.github.io/tags/big-data/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/big-data/</guid>
       <description></description>
     </item>
     
@@ -40,6 +48,15 @@
     </item>
     
     <item>
+      <title>charging</title>
+      <link>https://zhaomiaoguo.github.io/tags/charging/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/charging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>charging-infratructure</title>
       <link>https://zhaomiaoguo.github.io/tags/charging-infratructure/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -49,11 +66,74 @@
     </item>
     
     <item>
+      <title>data-analytics</title>
+      <link>https://zhaomiaoguo.github.io/tags/data-analytics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-visualization</title>
+      <link>https://zhaomiaoguo.github.io/tags/data-visualization/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electric-vehicle</title>
+      <link>https://zhaomiaoguo.github.io/tags/electric-vehicle/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/electric-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interdependency</title>
+      <link>https://zhaomiaoguo.github.io/tags/interdependency/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/interdependency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power</title>
+      <link>https://zhaomiaoguo.github.io/tags/power/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>power-system-resilience</title>
       <link>https://zhaomiaoguo.github.io/tags/power-system-resilience/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/power-system-resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ride-sharing</title>
+      <link>https://zhaomiaoguo.github.io/tags/ride-sharing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/ride-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transportation</title>
+      <link>https://zhaomiaoguo.github.io/tags/transportation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/transportation/</guid>
       <description></description>
     </item>
     

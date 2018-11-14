@@ -11,11 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>I will present at INFORMs 2018 at Phoenix on Using ADMM to Sovle Charging Infrastructure Equilibrium Problem</title>
+      <title>RESIDUAL VALUE ANALYSIS OF PLUG-IN VEHICLES IN THE UNITED STATES</title>
+      <link>https://zhaomiaoguo.github.io/publication/ep2018/</link>
+      <pubDate>Mon, 01 Oct 2018 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/ep2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Guo will present his work, collaborating with Sandia National Labs and UC Davis, on evolvement of charging infrastructure in a competitive and stochastic market at INFORMs 2018 in Phoenix.</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2018_talk/</link>
+      <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2018_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Guo will present his work, collaborating with Sandia National Labs and UC Davis, on evolvement of charging infrastructure in a competitive and stochastic market at INFORMs 2018 in Phoenix.</title>
       <link>https://zhaomiaoguo.github.io/post/new_talk/</link>
       <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/new_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INSPIRE LAB&#39;s poster on DISTRIBUTION NETWORK RECONFIGURATION WITH DECENTRALIZED AUTONOMOUS ELECTRIC VEHICLES was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2018_poster/</link>
+      <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2018_poster/</guid>
       <description></description>
     </item>
     
@@ -47,6 +74,15 @@
     </item>
     
     <item>
+      <title>Agnet-base Simulation for Complext Infratructure Systems</title>
+      <link>https://zhaomiaoguo.github.io/project/simulation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cascading Failures and Robust Planning/Operation of Power System</title>
       <link>https://zhaomiaoguo.github.io/project/cascading_power/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -65,11 +101,20 @@
     </item>
     
     <item>
-      <title>Interdependency of Power and Transportation</title>
-      <link>https://zhaomiaoguo.github.io/project/nse2016/</link>
+      <title>Data Analytics in Transportation System</title>
+      <link>https://zhaomiaoguo.github.io/project/data_analytics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zhaomiaoguo.github.io/project/nse2016/</guid>
+      <guid>https://zhaomiaoguo.github.io/project/data_analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdependency of Power and Transportation</title>
+      <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
       <description></description>
     </item>
     
@@ -99,15 +144,6 @@
       <pubDate>Fri, 01 Apr 2016 00:50:53 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/publication/trc2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating Traffic Speed with Single Inductive Loop Event Data</title>
-      <link>https://zhaomiaoguo.github.io/publication/trr2012/</link>
-      <pubDate>Sun, 01 Jan 2012 01:12:08 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/trr2012/</guid>
       <description></description>
     </item>
     

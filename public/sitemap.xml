@@ -4,7 +4,31 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/publication/ep2018/</loc>
+      <lastmod>2018-10-01T01:08:42-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/post/informs2018_talk/</loc>
+      <lastmod>2018-09-09T17:54:34-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/post/new_talk/</loc>
+      <lastmod>2018-09-09T17:54:34-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/post/informs2018_poster/</loc>
       <lastmod>2018-09-09T17:54:34-04:00</lastmod>
     </url>
     
@@ -60,6 +84,14 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/project/simulation/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/project/cascading_power/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -76,7 +108,15 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/project/nse2016/</loc>
+      <loc>https://zhaomiaoguo.github.io/project/data_analytics/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/project/interdependency/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -124,15 +164,6 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -161,7 +192,6 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,6 +200,24 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/tags/undergraduate/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/big-data/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -187,6 +235,15 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/tags/charging/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/tags/charging-infratructure/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -196,7 +253,70 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/tags/data-analytics/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/data-visualization/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/electric-vehicle/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/interdependency/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/power/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/tags/power-system-resilience/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/ride-sharing/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/transportation/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>

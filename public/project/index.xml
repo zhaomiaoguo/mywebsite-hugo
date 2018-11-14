@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Agnet-base Simulation for Complext Infratructure Systems</title>
+      <link>https://zhaomiaoguo.github.io/project/simulation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cascading Failures and Robust Planning/Operation of Power System</title>
       <link>https://zhaomiaoguo.github.io/project/cascading_power/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -31,11 +40,20 @@
     </item>
     
     <item>
-      <title>Interdependency of Power and Transportation</title>
-      <link>https://zhaomiaoguo.github.io/project/nse2016/</link>
+      <title>Data Analytics in Transportation System</title>
+      <link>https://zhaomiaoguo.github.io/project/data_analytics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zhaomiaoguo.github.io/project/nse2016/</guid>
+      <guid>https://zhaomiaoguo.github.io/project/data_analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdependency of Power and Transportation</title>
+      <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
       <description></description>
     </item>
     
