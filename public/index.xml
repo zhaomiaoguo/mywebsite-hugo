@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>INSPIRE LAB&#39;s poster on Distribution Network Reconfiguration with Decentralized Autonomous Electric Vehicles was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2018_poster/</link>
+      <pubDate>Tue, 06 Nov 2018 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2018_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RESIDUAL VALUE ANALYSIS OF PLUG-IN VEHICLES IN THE UNITED STATES</title>
       <link>https://zhaomiaoguo.github.io/publication/ep2018/</link>
       <pubDate>Mon, 01 Oct 2018 01:08:42 -0400</pubDate>
@@ -25,24 +34,6 @@
       <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/informs2018_talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dr. Guo will present his work, collaborating with Sandia National Labs and UC Davis, on evolvement of charging infrastructure in a competitive and stochastic market at INFORMs 2018 in Phoenix.</title>
-      <link>https://zhaomiaoguo.github.io/post/new_talk/</link>
-      <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/new_talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INSPIRE LAB&#39;s poster on DISTRIBUTION NETWORK RECONFIGURATION WITH DECENTRALIZED AUTONOMOUS ELECTRIC VEHICLES was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</title>
-      <link>https://zhaomiaoguo.github.io/post/informs2018_poster/</link>
-      <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/informs2018_poster/</guid>
       <description></description>
     </item>
     
@@ -144,6 +135,15 @@
       <pubDate>Fri, 01 Apr 2016 00:50:53 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/publication/trc2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Traffic Speed with Single Inductive Loop Event Data</title>
+      <link>https://zhaomiaoguo.github.io/publication/trr2012/</link>
+      <pubDate>Sun, 01 Jan 2012 01:12:08 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trr2012/</guid>
       <description></description>
     </item>
     
