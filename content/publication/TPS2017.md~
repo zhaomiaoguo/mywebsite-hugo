@@ -18,7 +18,7 @@ authors = ["**Zhaomiao Guo**", "Richard Chen", "Neng Fan", "Jean-Paul Watson"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Power Systems*"
+publication = "*IEEE TRANSACTIONS ON POWER SYSTEMS*"
 publication_short = ""
 
 # Abstract and optional shortened version.
