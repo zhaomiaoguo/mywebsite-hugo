@@ -1,6 +1,6 @@
 +++
 title = "Presentation at USF CUTR seminar"
-date = 2018-09-09T17:54:34-04:00
+date = 2019-03-09T17:54:34-04:00
 draft = false
 
 # Tags and categories
@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development at USF.
+Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development.
