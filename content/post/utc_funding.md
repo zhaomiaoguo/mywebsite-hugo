@@ -1,6 +1,6 @@
 +++
-title = "New funded project on ride-sharing system analysis"
-date = 2018-11-19T17:54:34-04:00
+title = "New funded project on vehicle-to-infrastructure (V2I) planning and safety impacts"
+date = 2019-03-19T17:54:34-04:00
 draft = false
 
 # Tags and categories
@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-INSPIRE Lab is awarded a project from Argonne (funding source US DOE) on "Impacts of Electrified Ride-sharing on Transportation and Energy Systems".
+

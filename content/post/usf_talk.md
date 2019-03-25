@@ -1,12 +1,12 @@
 +++
-title = "New publication"
-date = 2018-11-16T17:54:34-04:00
+title = "Presentation at USF CUTR seminar"
+date = 2018-09-09T17:54:34-04:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
-categories = ["Publication"]
+categories = ["Presentation"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-New publication in resale vaule of PEVs on Energy Policy based on large scale online true market value data.[Access Link](https://authors.elsevier.com/c/1Y5Bc14YGgXhrji 'Jump to Energy Policy')
+Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development at USF.

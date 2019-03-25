@@ -1,10 +1,10 @@
 +++
-title = "Contingency-Constrained Unit Commitment With Intervening Time for System Adjustments"
-date = 2017-07-01T00:58:05-04:00
+title = "Infrastructure Planning for Fast Charging Stations in a Competitive Market"
+date = 2016-04-01T00:50:53-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhaomiao Guo", "Richard Chen", "Neng Fan", "Jean-Paul Watson"]
+authors = ["**Zhaomiao Guo**", "Julio Deride", "Yueyue Fan"]
 
 # Publication type.
 # Legend:
@@ -18,18 +18,18 @@ authors = ["Zhaomiao Guo", "Richard Chen", "Neng Fan", "Jean-Paul Watson"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE TRANSACTIONS ON POWER SYSTEMS*"
+publication = "*Transportation Research Part C: Emerging Technologies*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The N -1-1 contingency reliability criterion considers the consecutive loss of two components in a power system, with intervening time for system adjustments between the two losses. In this paper, we consider the problem of optimizing generation unit while ensuring the N -1-1 criterion. Due to the coupling of time pe- riods associated with consecutive component losses, the resulting problem yields a very large-scale mixed-integer linear optimization model. For efficient solution, we introduce a novel branch-and-cut algorithm using a temporally decomposed bilevel separation or- acle. The model and algorithm are assessed using multiple IEEE test systems, and a comprehensive analysis is performed to compare system performance across different contingency criteria. Compu- tational results demonstrate the value of considering intervening time for system adjustments in terms of total cost and system ro- bustness."
+abstract = "Most existing studies on EV charging infrastructure planning take a central planner’s perspective, by assuming that investment decision on charging facilities can be controlled by a single decision entity. In this paper, we establish modeling and computational meth- ods to support business-driven EV charging infrastructure investment planning problem, where the infrastructure system is shaped by collective actions of multiple decision entities who do not necessarily coordinate with each other. A network-based multi- agent optimization modeling framework is developed to simultaneously capture the selfish behaviors of individual investors and travelers and their interactions over a network struc- ture. To overcome computational difficulty imposed by non-convexity of the problem, we rely on recent theoretical development on variational convergence of bivariate functions to design a solution algorithm with analysis on its convergence properties. Numerical exper- iments are implemented to study the performance of proposed method and draw practical insights."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true 
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
