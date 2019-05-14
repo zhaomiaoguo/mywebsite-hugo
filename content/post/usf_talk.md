@@ -15,4 +15,4 @@ image = ""
 caption = ""
 
 +++
-Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development.
+Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development on Mar. 22, 2019 at USF.

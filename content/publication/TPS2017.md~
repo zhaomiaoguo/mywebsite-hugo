@@ -4,7 +4,7 @@ date = 2017-07-01T00:58:05-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhaomiao Guo", "Richard Chen", "Neng Fan", "Jean-Paul Watson"]
+authors = ["**Zhaomiao Guo**", "Richard Chen", "Neng Fan", "Jean-Paul Watson"]
 
 # Publication type.
 # Legend:
@@ -36,7 +36,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["cascading_power"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
