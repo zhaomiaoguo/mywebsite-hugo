@@ -22,7 +22,7 @@ cd zhaomiaoguo.github.io
 # rm -rf post
 
 # cp -av
-cp -av ../mywebsite-hugo/public/* .
+cp -av /Users/zmguo/git/mywebsite-hugo/public/* .
 
 # Add changes to git.
 git add -A
