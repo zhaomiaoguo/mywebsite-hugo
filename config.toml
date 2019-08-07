@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Civil Engineering", url = "http://www.cece.ucf.edu/guo/"}, { name = "Resilient, Intelligent and Sustainable Energy Systems (RISES) cluster", url = "https://www.ucf.edu/faculty/cluster/renewable-energy-systems/" }, { name = "University of Central Florida", url = "https://www.ucf.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "cascading.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "guo.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "guo@ucf.edu"
   address = "4353 Scorpius Street (Research 1, 150J), Orlando, Florida 32816-0120"
   phone = "407-823-6215"
