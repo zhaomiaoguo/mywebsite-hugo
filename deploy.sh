@@ -7,7 +7,7 @@ rm -rf public
 
 # add, commit, pull, push updates to my_website
 # Add changes to git.
-git add -u
+git add -A
 
 # Commit changes.
 msg="rebuilding site `date`"
@@ -39,7 +39,7 @@ cd zhaomiaoguo.github.io
 cp -av ../mywebsite-hugo/public/* .
 
 # Add changes to git.
-git add -u
+git add -A
 
 # Commit changes.
 msg="rebuilding site `date`"
