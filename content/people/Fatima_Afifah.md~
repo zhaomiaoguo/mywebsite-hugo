@@ -3,17 +3,17 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Kyle Cooke"
+title = "Fatima Afifah"
 
 # Project summary to display on homepage.
-summary = "Undergraduate Researcher"
+summary = "Graduate Researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Undergraduate"]
+tags = ["graduate-researcher, "traffic-safety", "image-processing", "transportation-system-modeling-and-optimization"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,4 +27,4 @@ image = ""
 caption = ""
 
 +++
-As a dedicated worker, Kyle has spent the past five years as an educator, and he is currently perusing a degree in civil engineering. With his prior work experience, he has been able to plan ahead of schedules, manage a diverse range of situations, and solve complex problems. As a forward-thinking professional, he is committed to finding economic solutions to a variety of engineering endeavors.
+Prior to joining UCF, Fatima worked as an educator for two years.  She completed her undergraduate and master’s degree in Civil Engineering from Bangladesh University of Engineering & Technology (BUET). While studying in BUET, she focused on issues related to child road safety and car-following behavior in heterogeneous road traffic condition. Fatima has succeeded on extracting the vehicle trajectory of heterogeneous traffic stream using image processing which she further used on her master’s thesis. Fatima is currently pursuing her PhD in UCF where she works in solving complex problems related to traffic system and operation using optimization technique.
