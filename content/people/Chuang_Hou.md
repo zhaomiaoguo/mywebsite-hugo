@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "chuang_hou.jpg"
 caption = ""
 
 +++
-
+Chuang got degrees of bachelor and master majored in electric engineering. Before being a visitor scholar at UCF, he worked as an embedded programming engineer in an electrical instrument company of China. During that time, the main content includes circuit board testing system development and GUI program based on Linux system. Now, his research interest is focusing on agent-based system.
