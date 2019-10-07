@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "chuang_hou.jpg"
+image = ""
 caption = ""
 
 +++
