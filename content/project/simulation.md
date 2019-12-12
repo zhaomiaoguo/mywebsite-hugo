@@ -24,4 +24,4 @@ math = false
 
 +++
 Due to an increasing connectivity, interdependence, and complexity of infrastructure systems, an analytical model may not be feasible to reflect the interactions within/between systems. As an alternative, agent-base modeling is found to be effective to capture complicated agent interactions and visualize system dynamics, especially with increasing data availability. This project develops an agent-base modeling platform to capture the interactions between key decision makers in transportation and power systems, including drivers, households and infrastructure investors, and simulate their decision making over both short-term and long-term horizon. This platform has broad applications in the study of EV charging, ride-sharing and power-transportation interdependency.
-![TEAM model](team.pdf)
+![TEAM model](/img/team.pdf)
