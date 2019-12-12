@@ -10,6 +10,7 @@ summary = "Due to an increasing connectivity, interdependence, and complexity of
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "team.pdf"
+image = "team.pdf"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
