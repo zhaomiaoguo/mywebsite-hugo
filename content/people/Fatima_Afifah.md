@@ -9,7 +9,7 @@ title = "Fatima Afifah"
 summary = "Graduate Researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "Fatima_Afifah.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
