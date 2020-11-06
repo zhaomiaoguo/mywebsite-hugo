@@ -11,16 +11,18 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 60
 
 +++
-### University of Central Florida
 
-* TTE 3810: Highway Engineering (Fall 2018/2019/2020)
-* CGN 5617: Infrastrastructure Systems Optimization (Spring 2019/2020)
+This is an example of using the *custom* widget to create your own homepage section.
 
-### University of California Davis
+I am a teaching instructor for the following courses at University X:
 
-* ECI 16: Spatial Data Analysis (Spring 2016)
-* ECI 253: Dynamic Programming and Multi-stage Decision Processes (Spring 2015)
-* ECI 153: Introduction to Operations Research (Fall 2014)
+- CS101: An intro to computer science
+- CS102: An intro to computer science
+- CS103: An intro to computer science
+- CS104: An intro to computer science
+- CS105: An intro to computer science
+- CS106: An intro to computer science
+- CS107: An intro to computer science
