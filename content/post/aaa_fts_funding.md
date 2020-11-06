@@ -1,6 +1,6 @@
 +++
 title = "New funded project on assessing societal understanding of existing/future vehicle technologies"
-date = 2020-1-31T17:54:34-04:00
+date = 2020-01-31T17:54:34-04:00
 draft = false
 
 # Tags and categories
