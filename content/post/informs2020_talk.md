@@ -1,6 +1,6 @@
 +++
 title = "Presentation at INFORMS 2020"
-date = 2020-11-11T16:30:00-04:00
+date = 2020-5-11T16:30:00-04:00
 draft = false
 
 # Tags and categories
