@@ -1,6 +1,6 @@
 +++
-title = "New funded project on assessing societal understanding of existing/future vehicle technologies, sponsored by Safer-Sim Tier 1 UTC and AAA Foundation for Traffic Safety."
-date = 2020-01-31T17:54:34-04:00
+title = "New funded project on deep reinforcement learning for speed control for network safety, sponsored by Safer-Sim Tier 1 UTC"
+date = 2021-06-1T17:54:34-04:00
 draft = false
 
 # Tags and categories

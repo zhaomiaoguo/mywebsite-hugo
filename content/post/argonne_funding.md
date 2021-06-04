@@ -1,5 +1,5 @@
 +++
-title = "New funded project on ride-sharing system analysis"
+title = "New funded project on ride-sharing system analysis, sponsored by Argonne National Lab, Department of Energy"
 date = 2018-11-19T17:54:34-04:00
 draft = false
 
