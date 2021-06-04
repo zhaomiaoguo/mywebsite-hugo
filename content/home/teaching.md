@@ -16,8 +16,9 @@ weight = 40
 +++
 ### University of Central Florida
 
-* TTE 3810: Highway Engineering (Fall 2018/2019/2020)
-* CGN 5617: Infrastrastructure Systems Optimization (Spring 2019/2020)
+* TTE 3810: Highway Engineering (2018-present, 1-2 sessions per year )
+* CGN 5617: Infrastrastructure Systems Optimization (Spring 2019/2020/2021)
+* TTE 6938: Transportation Network (Fall 2021)
 
 ### University of California Davis
 
