@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-08-27T00:00:00
 
 # Project title.
-title = "Fatima Afifah"
+title = "Sina Baghali"
 
 # Project summary to display on homepage.
-summary = "Graduate Researcher"
+summary = "Graduate Student Researcher, PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "sina_baghali.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["graduate-researcher", "traffic-safety", "image-processing", "transportation-system-modeling-and-optimization"]
+tags = ["current graduate", "graduate-researcher", "transportation electrification", "infrastructure resilience", "transportation and power system interdependence", "machine learning", "operations research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,4 +27,4 @@ image = ""
 caption = ""
 
 +++
-Prior to joining UCF, Fatima worked as an educator for two years.  She completed her undergraduate and master’s degree in Civil Engineering from Bangladesh University of Engineering & Technology (BUET). While studying in BUET, she focused on issues related to child road safety and car-following behavior in heterogeneous road traffic condition. Fatima has succeeded on extracting the vehicle trajectory of heterogeneous traffic stream using image processing which she further used on her master’s thesis. Fatima is currently pursuing her PhD in UCF where she works in solving complex problems related to traffic system and operation using optimization technique.
+Sina got his undergraduate degree from the University of Tabriz and his master's degree from K. N. Toosi University of Technology both majored in Electrical Engineering. Before joining UCF, his research include modeling power systems in optimization problems and modeling renewable energy resources based on data analytics. He is currently a P.h.D student at UCF working on the interdependencies of power and transportation systems in terms of resilience. 

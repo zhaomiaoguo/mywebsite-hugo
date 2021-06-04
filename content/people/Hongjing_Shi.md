@@ -3,17 +3,17 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Fatima Afifah"
+title = "Hongjing Shi"
 
 # Project summary to display on homepage.
-summary = "Graduate Researcher"
+summary = "Volunteer, High School Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["graduate-researcher", "traffic-safety", "image-processing", "transportation-system-modeling-and-optimization"]
+tags = ["volunteer", "high school student"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,4 +27,4 @@ image = ""
 caption = ""
 
 +++
-Prior to joining UCF, Fatima worked as an educator for two years.  She completed her undergraduate and master’s degree in Civil Engineering from Bangladesh University of Engineering & Technology (BUET). While studying in BUET, she focused on issues related to child road safety and car-following behavior in heterogeneous road traffic condition. Fatima has succeeded on extracting the vehicle trajectory of heterogeneous traffic stream using image processing which she further used on her master’s thesis. Fatima is currently pursuing her PhD in UCF where she works in solving complex problems related to traffic system and operation using optimization technique.
+As a highschooler ,Hongjing is currently in 10th grade in Timber Creek High School. On his way of finishing his 10th grade school year, he joined the lab group as a volunteer and currently focusing on participating and provide social service to lab in UCF.    

@@ -1,6 +1,6 @@
 +++
 title = "New funded project on deep reinforcement learning for speed control for network safety, sponsored by Safer-Sim Tier 1 UTC"
-date = 2021-06-1T17:54:34-04:00
+date = 2021-06-01T17:54:34-04:00
 draft = false
 
 # Tags and categories

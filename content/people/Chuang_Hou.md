@@ -6,14 +6,14 @@ date = 2016-04-27T00:00:00
 title = "Chuang Hou"
 
 # Project summary to display on homepage.
-summary = "Visiting Scholar"
+summary = "Visiting Scholar (2020), Software Engineer at Alibaba Group"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "chuang_hou.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["visiting scholar", "agent-based modeling", "power system"]
+tags = ["previous graduate", "visiting scholar", "agent-based modeling", "power system"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

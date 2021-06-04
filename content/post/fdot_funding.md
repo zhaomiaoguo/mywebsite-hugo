@@ -1,6 +1,6 @@
 +++
 title = "New funded project on Evaluating and Validating Technology Options for Estimating Transit Vehicle Occupancy in Real Time, sponsored by FDOT and collaborated with FSU and FIU"
-date = 2021-06-1T17:54:34-04:00
+date = 2021-06-01T17:54:34-04:00
 draft = false
 
 # Tags and categories

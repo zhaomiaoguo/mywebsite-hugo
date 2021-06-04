@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-04-27T00:00:00
 
 # Project title.
 title = "Fatima Afifah"
 
 # Project summary to display on homepage.
-summary = "Graduate Researcher"
+summary = "Graduate Student Researcher, PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "fatima_afifah.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["graduate-researcher", "traffic-safety", "image-processing", "transportation-system-modeling-and-optimization"]
+tags = ["current graduate", "graduate-researcher", "traffic safety", "image processing", "transportation system modeling and optimization"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
