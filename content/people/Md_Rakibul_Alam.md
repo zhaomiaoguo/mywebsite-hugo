@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Fatima Afifah"
+title = "Md Rakibul Alam"
 
 # Project summary to display on homepage.
 summary = "Graduate Researcher"
