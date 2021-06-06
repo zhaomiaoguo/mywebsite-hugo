@@ -27,3 +27,5 @@ image = ""
 caption = ""
 
 +++
+Tadeas Lobreis is a senior Computer Science student at the University of Central Florida. Tadeas graduated with Associates in Arts degree for St. Petersburg College in Clearwater, Florida before transferring to UCF. He is currently working as an undergraduate researcher for Dr. Guo and completing a senior design project sponsored by Mitsubishi Motors. His interests include AI and Machine Learning, especially when pertaining to hardware applications. Tadeas hopes to continue his education with a master's degree in Data Science after graduation.
+
