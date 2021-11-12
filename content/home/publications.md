@@ -35,4 +35,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-#_Asterisks indicate an author is/was a graduate (*) or undergraduate (**) researcher in INSPIRE Lab._
