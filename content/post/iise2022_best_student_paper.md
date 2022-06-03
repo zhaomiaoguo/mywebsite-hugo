@@ -11,7 +11,7 @@ categories = ["Presentation"]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "sina_iise_2022.jpg"
 caption = ""
 
 +++
