@@ -16,9 +16,10 @@ weight = 40
 +++
 ### University of Central Florida
 
+* TTE 3405: Applied Numerical Methods (Fall 2022-present)
 * TTE 3810: Highway Engineering (2018-present, 1-2 sessions per year )
-* CGN 5617: Infrastrastructure Systems Optimization (Spring 2019/2020/2021)
-* TTE 6938: Transportation Network (Fall 2021)
+* CGN 5617: Infrastrastructure Systems Optimization (Spring 2019-present)
+* TTE 6938: Transportation Network (Fall 2021-present)
 
 ### University of California Davis
 
