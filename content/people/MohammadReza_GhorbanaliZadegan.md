@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2023-10-18T00:00:00
 
 # Project title.
-title = "MohammadReza_GhorbanaliZadegan"
+title = "MohamadReza GhorbanaliZadegan"
 
 # Project summary to display on homepage.
-summary = "Phd Student"
+summary = "Graduate Student Researcher, PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "tadeas_lobreis.jpg"
+image_preview = "Reza.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["current undergraduate", "undergraduate researcher", "data analytics", "optimization"]
+tags = ["current graduate", "graduate-researcher", "transportation electrification", "Operations Research", "optimization"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,5 +27,5 @@ image = ""
 caption = ""
 
 +++
-Tadeas Lobreis is a senior Computer Science student at the University of Central Florida. Tadeas graduated with Associates in Arts degree for St. Petersburg College in Clearwater, Florida before transferring to UCF. He is currently working as an undergraduate researcher for Dr. Guo and completing a senior design project sponsored by Mitsubishi Motors. His interests include AI and Machine Learning, especially when pertaining to hardware applications. Tadeas hopes to continue his education with a master's degree in Data Science after graduation.
+MohammadReza is a PhD student in Civil Engineering (focus: Transportation Systems Engineering) at the University of Central Florida. He earned his undergraduate from Islamic Azad University and master's from Sharif University of Technology, both in Industrial Engineering. He has a strong background in Operations Research, Mathematical Formulation, and Optimization. Mohammadreza's research interests revolve around the application of mathematical and computational tools to address real-world problems in fields like transportation and logistics. He is currently working on the optimization of alternative fuel vehicles and their infrastructure planning.
 
