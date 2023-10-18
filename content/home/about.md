@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Transportation Engineering"
-  institution = "University of California"
+  institution = "University of California Davis"
   year = 2016
 
 [[education.courses]]
