@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "MohammadReza_GhorbanaliZadegan"
 
 # Project summary to display on homepage.
-summary = "Undergraduate Researcher"
+summary = "Phd Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "tadeas_lobreis.jpg"
