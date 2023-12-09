@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>power systems on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/power-systems/</link>
+    <description>Recent content in power systems on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/power-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saman Mazaheri Khameneh</title>
+      <link>https://zhaomiaoguo.github.io/people/saman_mazaheri_khameneh/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/saman_mazaheri_khameneh/</guid>
+      <description>Saman is a PhD student in Civil Engineering (focus: Transportation Systems Engineering) at the University of Central Florida. She earned both her BS.c and MS.c degrees from University of Tabriz majored in Electrical Engineering. . She has a strong background in power systems, and her research interests revolve around intersection of power systems and transportation systems. She is currently working on the application of optimization tools in transporation related to electric vehicles.</description>
+    </item>
+    
+  </channel>
+</rss>

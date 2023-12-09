@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/optimization/</link>
+    <description>Recent content in optimization on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MohamadReza GhorbanaliZadegan</title>
+      <link>https://zhaomiaoguo.github.io/people/mohammadreza_ghorbanalizadegan/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/mohammadreza_ghorbanalizadegan/</guid>
+      <description>MohammadReza is a PhD student in Civil Engineering (focus: Transportation Systems Engineering) at the University of Central Florida. He earned his undergraduate from Islamic Azad University and master&amp;rsquo;s from Sharif University of Technology, both in Industrial Engineering. He has a strong background in Operations Research, Mathematical Formulation, and Optimization. Mohammadreza&amp;rsquo;s research interests revolve around the application of mathematical and computational tools to address real-world problems in fields like transportation and logistics.</description>
+    </item>
+    
+    <item>
+      <title>Saman Mazaheri Khameneh</title>
+      <link>https://zhaomiaoguo.github.io/people/saman_mazaheri_khameneh/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/saman_mazaheri_khameneh/</guid>
+      <description>Saman is a PhD student in Civil Engineering (focus: Transportation Systems Engineering) at the University of Central Florida. She earned both her BS.c and MS.c degrees from University of Tabriz majored in Electrical Engineering. . She has a strong background in power systems, and her research interests revolve around intersection of power systems and transportation systems. She is currently working on the application of optimization tools in transporation related to electric vehicles.</description>
+    </item>
+    
+    <item>
+      <title>Amani McFarlane</title>
+      <link>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</guid>
+      <description>Amani is an undergraduate at UCF pursuing a degree in industrial engineering. His research interests include optimization and ergonomics.</description>
+    </item>
+    
+    <item>
+      <title>Tadeas Lobreis</title>
+      <link>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</guid>
+      <description>Tadeas Lobreis is a senior Computer Science student at the University of Central Florida. Tadeas graduated with Associates in Arts degree for St. Petersburg College in Clearwater, Florida before transferring to UCF. He is currently working as an undergraduate researcher for Dr. Guo and completing a senior design project sponsored by Mitsubishi Motors. His interests include AI and Machine Learning, especially when pertaining to hardware applications. Tadeas hopes to continue his education with a master&amp;rsquo;s degree in Data Science after graduation.</description>
+    </item>
+    
+  </channel>
+</rss>

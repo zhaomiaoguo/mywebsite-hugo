@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Mobility on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/smart-mobility/</link>
+    <description>Recent content in Smart Mobility on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/smart-mobility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Md Nafees Fuad Rafi</title>
+      <link>https://zhaomiaoguo.github.io/people/md_nafees_fuad_rafi/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/md_nafees_fuad_rafi/</guid>
+      <description>Md. Nafees Fuad Rafi is a Ph.D. student of Civil Engineering with a focus on Transportation Systems Engineering at the University of Central Florida. Before joining UCF, he worked as a faculty member at AUST, Dhaka, Bangladesh. He has completed his B.Sc. in Civil Engineering at Khulna University of Engineering &amp;amp; Technology (KUET), Khulna, Bangladesh. His research interest includes Travel Behavior Modeling, Smart Mobility, Data Analytics etc.</description>
+    </item>
+    
+  </channel>
+</rss>

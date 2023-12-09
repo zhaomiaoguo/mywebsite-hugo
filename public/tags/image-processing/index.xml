@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image processing on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/image-processing/</link>
+    <description>Recent content in image processing on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fatima Afifah</title>
+      <link>https://zhaomiaoguo.github.io/people/fatima_afifah/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/fatima_afifah/</guid>
+      <description>Prior to joining UCF, Fatima worked as an educator for two years. She completed her undergraduate and master’s degree in Civil Engineering from Bangladesh University of Engineering &amp;amp; Technology (BUET). While studying in BUET, she focused on issues related to child road safety and car-following behavior in heterogeneous road traffic condition. Fatima has succeeded on extracting the vehicle trajectory of heterogeneous traffic stream using image processing which she further used on her master’s thesis.</description>
+    </item>
+    
+  </channel>
+</rss>

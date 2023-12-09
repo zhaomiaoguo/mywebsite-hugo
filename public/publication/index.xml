@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/publication/</link>
+    <description>Recent content in Publications on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>System-level impacts of en-route information sharing considering adaptive routing</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2023_afifah/</link>
+      <pubDate>Sat, 11 Mar 2023 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2023_afifah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-optimization of Charging Scheduling and Platooning for Long-haul Electric Freight Vehicles</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2022_alam/</link>
+      <pubDate>Sun, 11 Dec 2022 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2022_alam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric Vehicles for Distribution System Load Pickup Under Stressed Conditions: A Network Equilibrium Approach</title>
+      <link>https://zhaomiaoguo.github.io/publication/tps2022/</link>
+      <pubDate>Mon, 20 Jun 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tps2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2022/</link>
+      <pubDate>Sat, 11 Jun 2022 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based trip chain emulation for electrified ride-sourcing charging demand analyses</title>
+      <link>https://zhaomiaoguo.github.io/publication/tl2022a/</link>
+      <pubDate>Thu, 05 May 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tl2022a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charging Infrastructure Planning for Ride-sourcing Electric Vehicles Considering Drivers’ Value of Time</title>
+      <link>https://zhaomiaoguo.github.io/publication/tl2022b/</link>
+      <pubDate>Wed, 04 May 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tl2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining of Plug-in Electric Vehicles Charging Behavior using Supply-Side Data</title>
+      <link>https://zhaomiaoguo.github.io/publication/ep2021/</link>
+      <pubDate>Fri, 01 Oct 2021 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/ep2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Travel and Charging Behavior of ElectricVehicles - A Data-driven Approach</title>
+      <link>https://zhaomiaoguo.github.io/publication/pes2017/</link>
+      <pubDate>Tue, 01 Jun 2021 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/pes2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach (Best Paper Award)</title>
+      <link>https://zhaomiaoguo.github.io/publication/iise2021/</link>
+      <pubDate>Mon, 24 May 2021 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/iise2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Stochastic Multi-Agent Optimization Framework for Interdependent Transportation and Power System Analyses</title>
+      <link>https://zhaomiaoguo.github.io/publication/tte2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tte2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of Integrating Topology Reconfiguration and Vehicle-to-Grid Technologies on Distribution System Operation</title>
+      <link>https://zhaomiaoguo.github.io/publication/tse2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Value Analysis of Plug-in Vehicles in the United States</title>
+      <link>https://zhaomiaoguo.github.io/publication/ep2018/</link>
+      <pubDate>Mon, 01 Oct 2018 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/ep2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contingency-Constrained Unit Commitment With Intervening Time for System Adjustments</title>
+      <link>https://zhaomiaoguo.github.io/publication/tps2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tps2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Stochastic Multi-agent Optimization Model for Energy Infrastructure Planning under Uncertainty in An Oligopolistic Market</title>
+      <link>https://zhaomiaoguo.github.io/publication/nse2016/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/nse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure Planning for Fast Charging Stations in a Competitive Market</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Traffic Speed with Single Inductive Loop Event Data</title>
+      <link>https://zhaomiaoguo.github.io/publication/trr2012/</link>
+      <pubDate>Sun, 01 Jan 2012 01:12:08 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trr2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

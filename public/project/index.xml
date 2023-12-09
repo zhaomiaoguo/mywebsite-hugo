@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/project/</link>
+    <description>Recent content in Projects on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributed Reinforcement Learning for Optimal Speed Limit Control Over Network, sponsor: Safer-Sim</title>
+      <link>https://zhaomiaoguo.github.io/project/reinforcement_learning/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/reinforcement_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA), sponsor: NSF, Safer-Sim(seed)</title>
+      <link>https://zhaomiaoguo.github.io/project/information/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/information/</guid>
+      <description>This project addresses the use of advanced sensing, communications, and computing technologies in studying value of information in transportation systems made up of heterogeneous traffic (cars, autonomous and connected vehicles, buses, bicycles, etc.) The wealth of data available on these systems enables new approaches to information provisioning that have the potential to improve transportation system efficiency, reliability, and resilience. The project develops a unified modeling framework for information provision considering heterogeneous non-cooperative stakeholders and addresses three critical questions: (1) How do we model adaptive behavior of different traffic components in response to evolving information updates?</description>
+    </item>
+    
+    <item>
+      <title>Agnet-base Simulation for Complex Infrastructure Systems, sponsor: Argonne/DOE</title>
+      <link>https://zhaomiaoguo.github.io/project/simulation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
+      <description>Due to an increasing connectivity, interdependence, and complexity of infrastructure systems, an analytical model may not be feasible to reflect the interactions within/between systems. As an alternative, agent-base modeling is found to be effective to capture complicated agent interactions and visualize system dynamics, especially with increasing data availability. This project develops an agent-base modeling platform to capture the interactions between key decision makers in transportation and power systems, including drivers, households and infrastructure investors, and simulate their decision making over both short-term and long-term horizon.</description>
+    </item>
+    
+    <item>
+      <title>Cascading Failures and Robust Planning/Operation of Power System</title>
+      <link>https://zhaomiaoguo.github.io/project/cascading_power/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/cascading_power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charging Infrastructure Evolvement in a Competitive Market</title>
+      <link>https://zhaomiaoguo.github.io/project/evolvement_charging/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/evolvement_charging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analytics in Transportation System, sponsor: Argonne/DOE</title>
+      <link>https://zhaomiaoguo.github.io/project/data_analytics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/data_analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdependency of Power and Transportation, sponsor: UCF ORC Seed</title>
+      <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

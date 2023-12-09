@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/categories/award/</link>
+    <description>Recent content in Award on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 29 Apr 2023 17:54:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/categories/award/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NSF CAREER Award</title>
+      <link>https://zhaomiaoguo.github.io/post/nsf2023_career/</link>
+      <pubDate>Sat, 29 Apr 2023 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/nsf2023_career/</guid>
+      <description>I&amp;rsquo;m thrilled to receive the NSF CAREER Award this year. Especially thanks my mentors, students, and friends who have helped greatly to this achievement.
+The topic of my CAREER proposal is on &amp;ldquo;A Decentralized Optimization Framework for Next-Gen Transportation and Power Systems with Large-scale Transportation Electrification&amp;rdquo;, aiming to contribute to the efficiency, sustainability, and resilience of these two critical infrastructure systems leveraging electric vehicles. Look forward to broad collaboration and discussion on this topics.</description>
+    </item>
+    
+  </channel>
+</rss>

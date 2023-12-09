@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>power system on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/power-system/</link>
+    <description>Recent content in power system on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/power-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chuang Hou</title>
+      <link>https://zhaomiaoguo.github.io/people/chuang_hou/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/chuang_hou/</guid>
+      <description>Chuang got degrees of bachelor and master majored in electric engineering. Before being a visitor scholar at UCF, he worked as an embedded programming engineer in an electrical instrument company of China. During that time, the main content includes circuit board testing system development and GUI program based on Linux system. Now, his research interest is focusing on agent-based system.</description>
+    </item>
+    
+  </channel>
+</rss>

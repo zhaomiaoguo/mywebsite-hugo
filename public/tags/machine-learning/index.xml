@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Md Rakibul Alam</title>
+      <link>https://zhaomiaoguo.github.io/people/md_rakibul_alam/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/md_rakibul_alam/</guid>
+      <description>Rakibul Alam is a PhD student in Civil Engineering (focus: Transportation Systems Engineering) at University of Central Florida. He completed his undergraduate from Bangladesh University of Engineering and Technology and master&amp;rsquo;s from Memorial University of Newfoundland, both in Civil Engineering. His past research works relate with environmental impact from road pavement maintenance, and pavement life cycle assessment using data science. He served at the faculty of Civil Engineering at University of Information Technology and Sciences (UITS), as an educator.</description>
+    </item>
+    
+    <item>
+      <title>Sina Baghali</title>
+      <link>https://zhaomiaoguo.github.io/people/sina_baghali/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/sina_baghali/</guid>
+      <description>Sina got his undergraduate degree from the University of Tabriz and his master&amp;rsquo;s degree from K. N. Toosi University of Technology both majored in Electrical Engineering. Before joining UCF, his research include modeling power systems in optimization problems and modeling renewable energy resources based on data analytics. He is currently a P.h.D student at UCF working on the interdependencies of power and transportation systems in terms of resilience.</description>
+    </item>
+    
+  </channel>
+</rss>

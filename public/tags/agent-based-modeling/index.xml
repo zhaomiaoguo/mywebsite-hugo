@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agent-based modeling on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</link>
+    <description>Recent content in agent-based modeling on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/agent-based-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Md Rakibul Alam</title>
+      <link>https://zhaomiaoguo.github.io/people/md_rakibul_alam/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/md_rakibul_alam/</guid>
+      <description>Rakibul Alam is a PhD student in Civil Engineering (focus: Transportation Systems Engineering) at University of Central Florida. He completed his undergraduate from Bangladesh University of Engineering and Technology and master&amp;rsquo;s from Memorial University of Newfoundland, both in Civil Engineering. His past research works relate with environmental impact from road pavement maintenance, and pavement life cycle assessment using data science. He served at the faculty of Civil Engineering at University of Information Technology and Sciences (UITS), as an educator.</description>
+    </item>
+    
+    <item>
+      <title>Chuang Hou</title>
+      <link>https://zhaomiaoguo.github.io/people/chuang_hou/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/chuang_hou/</guid>
+      <description>Chuang got degrees of bachelor and master majored in electric engineering. Before being a visitor scholar at UCF, he worked as an embedded programming engineer in an electrical instrument company of China. During that time, the main content includes circuit board testing system development and GUI program based on Linux system. Now, his research interest is focusing on agent-based system.</description>
+    </item>
+    
+  </channel>
+</rss>
