@@ -29,6 +29,8 @@ cd ..
 
 cd zhaomiaoguo.github.io
 
+git pull
+
 #ssh-add ~/.ssh/id_rsa
 #git remote set-url origin git@github.com:zhaomiaoguo/guo.github.io.git
 
@@ -49,7 +51,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 git commit -m "$msg"
-git pull
+
 # Push source and build repos.
 git push origin master
 
