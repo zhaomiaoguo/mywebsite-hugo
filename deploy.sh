@@ -2,11 +2,12 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+git pull
+
 # delete public folder
 rm -rf public
 
 # add, commit, pull, push updates to my_website
-git pull
 
 # Add changes to git.
 git add -A
