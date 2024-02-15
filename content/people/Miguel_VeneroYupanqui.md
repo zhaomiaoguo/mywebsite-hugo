@@ -9,7 +9,7 @@ title = "Miguel Angel Venero Yupanqui"
 summary = "Undergraduate Researcher"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "MVeneroYupanqui.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
