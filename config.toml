@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Transportation System Engineering", url = "https://www.caee.utexas.edu"}, { name = "Cockrell School of Engineering", url = "https://cockrell.utexas.edu" }, { name = "University of Texas at Austin", url = "https://www.utexas.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "guo_2024.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "guo_2024.jpeg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zguo *at* utexas *dot* edu"
   address = "301 E. Dean Keeton St. (6.104), Austin, Texas 78712-1700"
   phone = ""
