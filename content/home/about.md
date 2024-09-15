@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2024-09-15T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Infrastructure Resilience",
+    "Network Optimization",
     "Cyber-physical Systems",
     "Transportation and Energy Interdependency"
   ]
@@ -40,6 +41,6 @@ weight = 5
 
 ### Principal Investigator
 
-Dr. Zhaomiao (Walter) Guo leads INfrastructure Systems with Proactive, Intelligence, and Resilience Enhancement (INSPIRE) Lab<sup>*</sup> at the University of Central Florida. Dr.Guo is currently an Assistant Professor in the Department of Civil, Environmental, and Construction Engineering and hold a joint appointment with the Resilient, Intelligent and Sustainable Energy Systems(RISES) Cluster. Dr. Guo’s research centers around modeling and computational strategies for intelligent and resilient critical infrastructure systems, with applications in transportation and energy systems. His research was/is supported by government agencies, auto manufacturers and leading power suppliers.
+Dr. Zhaomiao Guo leads INfrastructure Systems with Proactive, Intelligence, and Resilience Enhancement (INSPIRE) Lab<sup>*</sup> at the University of Texas at Austin. Dr. Guo is currently an Assistant Professor in the Maseeh Department of Civil, Architectural and Environmental Engineering. Dr. Guo's research centers around resilient and intelligent critical infrastructure systems, with a specific emphasis on the coupled transportation and energy systems with transportation electrification. His scholarly endeavors have garnered support from esteemed funding agencies at federal, state, and local levels. Notably, he received the NSF CAREER Award in the year 2023. 
 
-<sup>*</sup>One fully funded Ph.D. positions in INSPIRE lab for Spring/Fall 2022. The research areas broadly relate to network modeling and optimization, with applications in smart city, cyber-physical systems, and transportation & power system interactions. The candidates are expected to have a strong background in operations research, data science and/or computer science. Experiences in transportation and/or power system are preferred. If interested, please send your resume to Dr. Guo at guo@ucf.edu.
+<sup>*</sup>One fully funded Ph.D. positions in INSPIRE lab for Spring/Fall 2025. The research areas broadly relate to network modeling and optimization, with applications in smart city, cyber-physical systems, and transportation & power system interactions. The candidates are expected to have a strong background in operations research, data science and/or computer science. Experiences in transportation and/or power system are preferred. If interested, please send your resume to Dr. Guo at zguo@utexas.edu.
