@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Interdependency of Power and Transportation, sponsor: UCF ORC Seed"
+title = "Interdependency of Power and Transportation, sponsors: UCF ORC Seed and NSF CAREER"
 
 # Project summary to display on homepage.
 summary = "Power and transportation networks have various similarity and interdependency. This project looks at different linkages between these two critical infrastructure systems, including methodological and functional aspects"
@@ -22,4 +22,4 @@ external_link = ""
 math = false
 
 +++
-
+[Outreach Activities] ( {{< relref "links/EV_outreach/EV_outreach" >}})
