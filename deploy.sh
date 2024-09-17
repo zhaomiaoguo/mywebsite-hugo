@@ -30,7 +30,7 @@ cd ..
 
 cd zhaomiaoguo.github.io
 
-git pull
+#git pull
 
 #ssh-add ~/.ssh/id_rsa
 #git remote set-url origin git@github.com:zhaomiaoguo/guo.github.io.git
