@@ -24,4 +24,4 @@ math = false
 +++
 We collaborate with the faculty (Prof. Wen Ye) and students in the  Design Department at the University of Central Florida to design kids accessible electric vehicles info sheets. We further outreached to local elementary schools and library to distribute the disigned products.
 
-<img src="/img/guo.jpg" alt="Design 1" width="300" height="200"/>
+<img src= "/img/EV_outreach/1.jpg" alt="Design 1" width="300" height="200"/>
