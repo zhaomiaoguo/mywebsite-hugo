@@ -22,4 +22,4 @@ external_link = ""
 math = false
 
 +++
-[Outreach Activities] ( {{< relref "/links/ev_outreach" >}})
+[Outreach Activities] ( {{< relref "../links/ev_outreach" >}})
