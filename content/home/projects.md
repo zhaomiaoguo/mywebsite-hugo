@@ -30,8 +30,9 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 # [[filter]]
-#   name = "All"
-#   tag = "*"
+
+#  name = "All"
+#  tag = "interdependency"
 #
 # [[filter]]
 #   name = "Deep Learning"
